@@ -1,11 +1,10 @@
 package modernjavainaction.chapter03.lambda;
 
-import deepdive.datatype.StringClass;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
 public class Iterator {
-    public static void main(StringClass[] args) {
+    public static void main(String[] args) {
         LinkedList<Character> l = new LinkedList<>();
         l.add('a');
         l.add('b');
