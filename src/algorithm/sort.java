@@ -4,8 +4,10 @@ import java.util.stream.Stream;
 
 public class sort {
     public static void main(String[] args) {
-        /*Arrays.sort (arr, 시작 Index, 끝 Index + 1)*/
-
+        /*
+        * Arrays.sort (arr, 시작 Index, 끝 Index + 1)
+        * */
+        // 숫자
         // 오름차순
         int[] arr = new int[]{12, 41, 37, 81, 19, 25, 60, 20};
         Arrays.sort(arr);
@@ -24,6 +26,22 @@ public class sort {
         Integer[] integerArr02 = Arrays.stream(arr).boxed().toArray(Integer[]::new);
         Arrays.sort(integerArr02, Collections.reverseOrder());
         Arrays.stream(integerArr02).forEach(System.out::print);
+        System.out.println();
+
+        // 문자열 내 문자 정렬 (char)
+        // 오름차순
+        String str = "bcade";
+        char[] chars = str.toCharArray();
+        Arrays.sort(chars);
+        String sortedStr = new String(chars);
+        System.out.println(sortedStr);
+
+        // 내림차순
+        char[] chars1 = str.toCharArray();
+        Arrays.sort(chars1);
+        StringBuilder stringBuilder = new StringBuilder(new String(chars1));
+        StringBuilder reversedStr = stringBuilder.reverse();
+        System.out.println(reversedStr);
 
     }
 }
