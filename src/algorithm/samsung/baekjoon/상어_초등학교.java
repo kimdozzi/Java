@@ -1,4 +1,4 @@
-package samsung.baekjoon;
+package algorithm.samsung.baekjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

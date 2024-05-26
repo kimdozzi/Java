@@ -43,5 +43,12 @@ public class sort {
         StringBuilder reversedStr = stringBuilder.reverse();
         System.out.println(reversedStr);
 
+
+        // 문자열 리스트 정렬
+        String[] words = new String[]{"banana", "apple", "cat"};
+        Arrays.sort(words);
+
+        Arrays.sort(words, Collections.reverseOrder());
+
     }
 }
