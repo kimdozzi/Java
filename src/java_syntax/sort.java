@@ -1,4 +1,4 @@
-package algorithm;
+package java_syntax;
 import java.util.*;
 import java.util.stream.Stream;
 

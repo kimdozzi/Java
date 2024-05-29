@@ -1,4 +1,4 @@
-package java.stream;
+package java_syntax.stream;
 
 import java.util.Arrays;
 import java.util.List;
