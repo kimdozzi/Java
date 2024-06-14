@@ -100,26 +100,26 @@ class Main {
 대표적인 예로 싱글톤 패턴을 들 수 있는데, getInstance()라는 정적 팩토리 메서드를 사용해 오로지 하나의 객체만 반환하도록 하여 객체를 재사용해 메모리를 아끼도록 유도할 수 있다.
 
 ```java
-class effective_java.item01.Singleton {
-    private static effective_java.item01.Singleton instance;
+class effectiveJava.item01.Singleton{
+private static effectiveJava.item01.Singleton instance;
 
-    private Singleton() {
-    }
+private Singleton(){
+        }
 
-    // 정적 팩토리 메서드
-    public static synchronized effective_java.item01.Singleton getInstance() {
-        if (instance == null) {
-            instance = new effective_java.item01.Singleton();
+// 정적 팩토리 메서드
+public static synchronized effectiveJava.item01.Singleton getInstance(){
+        if(instance==null){
+        instance=new effectiveJava.item01.Singleton();
         }
         return instance;
-    }
-}
+        }
+        }
 
 class Main {
     public static void main(String[] args) {
-        effective_java.item01.Singleton s1 = effective_java.item01.Singleton.getInstance();
-        effective_java.item01.Singleton s2 = effective_java.item01.Singleton.getInstance();
-        effective_java.item01.Singleton s3 = effective_java.item01.Singleton.getInstance();
+        effectiveJava.item01.Singleton s1 = effectiveJava.item01.Singleton.getInstance();
+        effectiveJava.item01.Singleton s2 = effectiveJava.item01.Singleton.getInstance();
+        effectiveJava.item01.Singleton s3 = effectiveJava.item01.Singleton.getInstance();
 
         System.out.println(s1);
         System.out.println(s2);

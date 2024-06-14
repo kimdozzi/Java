@@ -1,4 +1,4 @@
-package java_syntax.generic;
+package javaDeepDive.generic;
 
 class FruitBox<T> {
     private T[] fruit;

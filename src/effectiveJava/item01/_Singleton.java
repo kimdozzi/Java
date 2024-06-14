@@ -1,4 +1,4 @@
-package effective_java.item01;
+package effectiveJava.item01;
 
 public class _Singleton {
     private static _Singleton instance;

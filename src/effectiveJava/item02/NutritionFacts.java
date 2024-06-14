@@ -1,4 +1,4 @@
-package effective_java.item02;
+package effectiveJava.item02;
 
 public class NutritionFacts {
     private int servingSize = -1;

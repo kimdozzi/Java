@@ -1,4 +1,4 @@
-package java_syntax.sort;
+package javaDeepDive.sort;
 import java.util.*;
 
 public class Main {
