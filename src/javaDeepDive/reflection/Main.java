@@ -1,4 +1,4 @@
-package java_syntax.reflection;
+package javaDeepDive.reflection;
 
 import java.lang.reflect.Field;
 import java.util.Arrays;

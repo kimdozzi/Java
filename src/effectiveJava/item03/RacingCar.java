@@ -1,4 +1,4 @@
-package effective_java.item03;
+package effectiveJava.item03;
 
 public interface RacingCar {
     void run();

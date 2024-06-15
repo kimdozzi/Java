@@ -1,4 +1,4 @@
-package java_syntax.reflection;
+package javaDeepDive.reflection;
 
 public class Car {
     public final int carName = 10;

@@ -1,4 +1,4 @@
-package effective_java.item03;
+package effectiveJava.item03;
 
 // RacingCar 인터페이스를 구현
 class UniqueSuperCar implements RacingCar{
