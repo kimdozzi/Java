@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G5_12865평벙한배낭;
+package algorithm.baekjoon.G5_12865평벙한배낭_DP;
 
 import java.io.BufferedReader;
 import java.io.IOException;
