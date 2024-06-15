@@ -3,9 +3,8 @@ package algorithm.baekjoon.S4_1459걷기_Greedy;
 import java.util.Scanner;
 
 public class Main {
-    static int x = 0, y = 0;
-    static int ny, nx, w, s;
-    static long cnt = 0;
+    static long x = 0, y = 0;
+    static long ny, nx, w, s;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,30 +14,19 @@ public class Main {
         w = sc.nextInt();
         s = sc.nextInt();
 
-//        int idx = 5;
-        while (true) {
-            if (x == nx && y == ny) {
-                break;
-            }
-            if (nx > x && ny > y) {
-                cnt += Math.min(w * 2, s);
-                x++;
-                y++;
-            } else if (nx > x + 1) {
-                cnt += Math.min(w * 2, s * 2);
-                x += 2;
-            } else if (ny > y + 1) {
-                cnt += Math.min(w * 2, s * 2);
-                y += 2;
-            } else if (nx > x && ny == y) {
-                cnt += w;
-                x++;
-            } else if (ny > y && nx == x) {
-                cnt += w;
-                y++;
-            }
-//            System.out.println(x + " " + y + "\n" + nx + " " + ny);
-        }
-        System.out.println(cnt);
+        long minDist = Math.min(nx,ny);
+        long maxDist = Math.max(nx,ny);
+        long totalDist = nx + ny;
+
+        // 평행이동만 하는 경우 (nx+ny) * w
+        long case01 = totalDist * w;
+
+        // 대각선으로만 이동하는 경우 (짝수는 max(nx,ny)*s, 홀수는 (max(nx,ny)-1)*s+w
+        long case02 = ((totalDist & 1) == 0) ? maxDist * s : (maxDist - 1) * s + w;
+
+        //  (n < m)일때, 대각선으로 (n,n)까지 가서 (n,m) or (m,n)으로 가는 경우
+        long case03 = (minDist * s) + ((maxDist - minDist) * w);
+
+        System.out.println(Math.min(case01, Math.min(case02, case03)));
     }
 }
