@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G4_11404플로이드;
+package algorithm.baekjoon.G4_11404플로이드_Graph;
 
 import java.io.BufferedReader;
 import java.io.IOException;
