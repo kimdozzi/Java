@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑöŸÂúÿÿÿÿ8Å”¡ƒ2
+]
+java:S3518-";Make sure "sum" can't be zero before doing this modulation.(ÏÅ¤…ÿÿÿÿÿ8Æ”¡ƒ2
+<
+java:S1659"Declare "k" on a separate line.(§¥Í×8É”¡ƒ2
+G	java:S106#"+Replace this use of System.out by a logger.(³È›¡8Ğ”¡ƒ2
+C
+java:S1659'"!Declare "num" on a separate line.(ÃŒ×çüÿÿÿÿ8Ñ”¡ƒ2
