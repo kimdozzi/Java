@@ -1,64 +1,51 @@
 package effectiveJava.item02;
 
-public class Main {
-    private final int servingSize;
-    private final int servings;
-    private final int calories;
-    private final int fat;
-    private final int sodium;
-    private final int carbohydrate;
+public class Person {
+    private final String name;
+    private final int age;
+    private final String address;
+    private final String phone;
 
-    private Main(Builder builder) {
-        this.servingSize = builder.servingSize;;
-        this.servings = builder.servings;
-        this.calories = builder.calories;
-        this.fat = builder.fat;
-        this.sodium = builder.sodium;
-        this.carbohydrate = builder.carbohydrate;
+    private Person(Builder builder) {
+        this.name = builder.name;;
+        this.age = builder.age;
+        this.address = builder.address;
+        this.phone = builder.phone;
     }
 
     public static class Builder {
         // 필수 매개변수
-        private final int servingSize;
-        private final int servings;
+        private final String name;
+        private final int age;
 
         // 선택 매개변수
-        private int calories = 0;
-        private int fat = 0;
-        private int sodium = 0;
-        private int carbohydrate = 0;
+        private String address = null;
+        private String phone = null;
 
         // 필수 매개변수를 받기 위한 생성자
-        public Builder (int servingSize, int servings) {
-            this.servingSize = servingSize;
-            this.servings = servings;
+        public Builder (String name, int age) {
+            this.name = name;
+            this.age = age;
         }
-        public Builder calories(int val) {
-            calories = val;
+        public Builder setAddress(String address) {
+            this.address = address;
             return this;
         }
-        public Builder fat(int val) {
-            fat = val;
+        public Builder setPhone(String phone) {
+            this.phone = phone;
             return this;
         }
-        public Builder sodium(int val) {
-            sodium = val;
-            return this;
-        }
-        public Builder carbohydrate(int val) {
-            carbohydrate = val;
-            return this;
-        }
-        public Main build() {
-            return new Main(this);
+        public Person build() {
+            return new Person(this);
         }
     }
 
     public static void main(String[] args) {
-        Main cocaCola = new Builder(240, 8)
-                .calories(100)
-                .sodium(35)
-                .carbohydrate(27)
+        Person person = new Builder("Jisu", 30)
+                .setAddress("서울특별시 강동구")
+                .setPhone("010-0011-1100")
                 .build();
+
+        System.out.println(person.name + " " + person.age + " " + person.address + " " + person.phone);
     }
 }

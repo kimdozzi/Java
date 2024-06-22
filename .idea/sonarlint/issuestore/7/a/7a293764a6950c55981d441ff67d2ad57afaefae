@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¢é±şÿÿÿÿ
+
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(§Š
+E	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(öÒ’¼ıÿÿÿÿ

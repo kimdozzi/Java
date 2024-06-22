@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ–÷¥
+O
+java:S1854"9Remove this useless assignment to local variable "apple".(Þâ×¡
+>
+java:S1905"(Remove this unnecessary cast to "Apple".(Þâ×¡
+@
+java:S1481"*Remove this unused "apple" local variable.(Þâ×¡
+Q	java:S125"<This block of commented-out lines of code should be removed.(Û²œû
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(æ¥¯

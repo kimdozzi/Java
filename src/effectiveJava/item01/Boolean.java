@@ -1,10 +1,16 @@
 package effectiveJava.item01;
 
-public class BooleanClass {
-    public static final Boolean TRUE = true;
-    public static final Boolean FALSE = false;
+public class Boolean {
+    private final boolean value;
 
-    public static boolean valueOf(boolean b) {
+    public static final Boolean TRUE = new Boolean(true);
+    public static final Boolean FALSE = new Boolean(false);
+
+    public Boolean(boolean value) {
+        this.value = value;
+    }
+    public static Boolean valueOf(boolean b) {
         return b ? TRUE : FALSE;
     }
 }
+
