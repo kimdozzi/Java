@@ -1,8 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³—úô8øı¡ìƒ2J$1014cd97-1d17-42ff-9b28-ac1175009e90
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³—úô8øı¡ìƒ2J$a95cb8f2-c723-456d-81e3-9199682a3924
 j
-java:S1659""Declare "oper" on a separate line.(µÒÒíÿÿÿÿÿ8üı¡ìƒ2J$f84e5999-62be-4e37-8c7a-5a225612ce15
+java:S1659""Declare "oper" on a separate line.(µÒÒíÿÿÿÿÿ8üı¡ìƒ2J$537c70ea-706a-4738-ac3b-2f55310cdc1e
 c
-java:S1659" Declare "mn" on a separate line.(ÓË8üı¡ìƒ2J$ccdd42dd-8984-489e-ba5d-1b40cf7d85a7
-r	java:S106"+Replace this use of System.out by a logger.(÷Ïâ˜øÿÿÿÿ8€ş¡ìƒ2J$99305ccb-80d4-4148-b9dc-3b0fb9bd598e
-i	java:S131)""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8ƒş¡ìƒ2J$7eec3a05-9290-4c83-b442-5c4b438a8745
+java:S1659" Declare "mn" on a separate line.(ÓË8üı¡ìƒ2J$f1a2a7b3-84aa-4bb3-bbde-c95e625d1cf2
+r	java:S106"+Replace this use of System.out by a logger.(÷Ïâ˜øÿÿÿÿ8€ş¡ìƒ2J$f0eea65c-38e3-4bc0-bfb9-827a33ef9b82
+i	java:S131)""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8ƒş¡ìƒ2J$99bef245-779a-489c-8838-e69853cf7cb5

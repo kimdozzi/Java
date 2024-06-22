@@ -4,14 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.StringJoiner;
 import java.util.StringTokenizer;
 
 public class Main {
     static int N;
     static int[] arr;
-    static StringBuilder sb = new StringBuilder();
-    static StringTokenizer st;
-    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
 
@@ -23,6 +21,9 @@ public class Main {
     }
 
     private static void input() throws IOException {
+        StringTokenizer st;
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         arr = new int[N];
@@ -58,11 +59,11 @@ public class Main {
 
         Arrays.sort(arr, flagIdx, N);
 
-        for (int i = 0; i < N - 1; i++) {
-            sb.append(arr[i]).append(" ");
+        StringJoiner sj = new StringJoiner(" ");
+        for (int i = 0; i < N; i++) {
+            sj.add(String.valueOf(arr[i]));
         }
-        sb.append(arr[N - 1]);
 
-        System.out.println(sb);
+        System.out.println(sj);
     }
 }

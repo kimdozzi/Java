@@ -1,9 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚³¥8¯İóƒ2J$7f0dfb40-07d3-4a29-8e13-2e563037b48f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚³¥8¯İóƒ2J$7f051b80-d0be-46ad-981c-4074154d68bb
 b
-java:S1659"Declare "m" on a separate line.(¦Ùï¬8³İóƒ2J$725a5afe-535d-4482-b4b0-6210d6c26ada
+java:S1659"Declare "m" on a separate line.(¦Ùï¬8³İóƒ2J$26e12ec4-9f78-45c5-9c4a-d390f81ae7d3
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(àÚ›ş8¶İóƒ2J$6d42f7ba-d205-4379-8ecd-d74e5b652ef8
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(àÚ›ş8¶İóƒ2J$f1a2fd46-65e2-4196-b8da-3d76b73d44db
 ‚
-java:S1659<"?Declare "y1" and all following declarations on a separate line.(îĞ8¸İóƒ2J$3eb85608-5224-4e31-9636-7afb0aa0f04f
-m	java:S106M"+Replace this use of System.out by a logger.(«š×„8¾İóƒ2J$27279bcc-ccd8-443a-861f-de2933d4c1c2
+java:S1659<"?Declare "y1" and all following declarations on a separate line.(îĞ8¸İóƒ2J$2a1af911-967e-45db-a020-1ad387d47b71
+m	java:S106M"+Replace this use of System.out by a logger.(«š×„8¾İóƒ2J$5649cb45-2f00-4e35-a942-b323af5f34d8

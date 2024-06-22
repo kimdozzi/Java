@@ -1,5 +1,5 @@
 
-g
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(£‡´ï
-E	java:S1060"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8á¯Çôƒ2
+G	java:S106"+Replace this use of System.out by a logger.(£‡´ï8é¯Çôƒ2
+L	java:S1060"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ê¯Çôƒ2
