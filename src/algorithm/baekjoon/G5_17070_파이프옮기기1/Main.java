@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 public class Main {
     static int N;
     static int[][] map;
-    static int ans;
 
     public static void main(String[] args) throws IOException {
         input();
