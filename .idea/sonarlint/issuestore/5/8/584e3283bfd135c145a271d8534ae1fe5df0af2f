@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı®¥É8÷ÄĞæ…2J$b10a4feb-bc91-48ba-8689-7b2f704a3b0c
+”
+java:S3008	"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö’—½ıÿÿÿÿ8ùÄĞæ…2J$5b4f44d9-3528-46a1-8dd9-a31902974e6c
+”
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö’—½ıÿÿÿÿ8ùÄĞæ…2J$a6337a58-f61a-4f6a-815a-8c12fb4e487c
+”
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö’—½ıÿÿÿÿ8Êä™ù…2J$f5d4287a-0e6f-47fe-b276-aa4dc4067194
+†
+java:S1659	">Declare "N" and all following declarations on a separate line.(Ö’—½ıÿÿÿÿ8úÄĞæ…2J$cad36d10-61c1-4ac0-b304-31019fc7d2da
+m	java:S106"+Replace this use of System.out by a logger.(í³8şÄĞæ…2J$4e51cbff-6d41-43f4-868b-f851926a7c1c

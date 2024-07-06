@@ -1,6 +1,0 @@
-
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šé¥‡8¸¾Ëôƒ2J$109ee6fb-6ca3-468a-b0e3-968f14f1afe3
-”
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõþÿÿÿÿ8È¾Ëôƒ2J$16658fdc-f656-4228-857c-efc3b8c4a726
-m	java:S106-"+Replace this use of System.out by a logger.(£©‚ß8Ø¾Ëôƒ2J$cf099e15-9284-4067-a25a-c98246f31b29
-m	java:S106C"+Replace this use of System.out by a logger.(Àô²Å8Ù¾Ëôƒ2J$9b317415-0c98-4999-b274-7bbf8426a711

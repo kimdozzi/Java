@@ -7,7 +7,7 @@ public class Person {
     private final String phone;
 
     private Person(Builder builder) {
-        this.name = builder.name;;
+        this.name = builder.name;
         this.age = builder.age;
         this.address = builder.address;
         this.phone = builder.phone;

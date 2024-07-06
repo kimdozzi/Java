@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G5_15989_123더하기4;
+package algorithm.dynamicProgramming.G5_15989_123더하기4;
 
 import java.util.Scanner;
 

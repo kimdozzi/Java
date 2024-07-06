@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G4_16197_두동전;
+package algorithm.dynamicProgramming.G4_16197_두동전;
 
 import java.util.Scanner;
 

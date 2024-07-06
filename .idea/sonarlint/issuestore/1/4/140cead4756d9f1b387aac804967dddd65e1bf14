@@ -1,9 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×¾åÐÿÿÿÿÿ
-t
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ
-?
-java:S1659"$Declare "weight" on a separate line.(Å„ýÞúÿÿÿÿ
-Y
-java:S1659">Declare "e" and all following declarations on a separate line.(²éô¼øÿÿÿÿ
-?	java:S106-"+Replace this use of System.out by a logger.(ü„ê!

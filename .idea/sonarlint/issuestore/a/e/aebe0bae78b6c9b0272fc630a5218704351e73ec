@@ -1,12 +1,12 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¿åÝJ$f06ba363-d77a-438d-8977-9436f6dcbdc0
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¿åÝJ$0ae1b14c-eb7b-48bb-839d-0a70bb6d5ecb
 Ú
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™‚´’ûÿÿÿÿJ$790cdaa7-c1a6-4169-8488-61b6a5559ac2
-k	java:S106"+Replace this use of System.out by a logger.(§ï­õýÿÿÿÿJ$f6b45352-92f0-4c80-8769-56760b90e62d
-f	java:S106"+Replace this use of System.out by a logger.(ƒ¨æ¡J$00e13728-67d5-4a98-bf44-83c18bab0d61
-|	java:S125"<This block of commented-out lines of code should be removed.(ÁÒÈ‡ýÿÿÿÿJ$55b43df0-10f3-4770-a9f1-0eba0ea9a0b6
-w	java:S125"<This block of commented-out lines of code should be removed.(Í·ÞÞJ$7617fefc-ae7d-4303-8753-6d01f9d9e609
-f	java:S106*"+Replace this use of System.out by a logger.(Æ·È±J$ebabf246-af60-4859-91c9-67e87f759cd7
-k	java:S106."+Replace this use of System.out by a logger.(“¹ŒÈÿÿÿÿÿJ$4f4c01fb-a480-437e-8916-7f3a2dc54d04
-|	java:S1252"<This block of commented-out lines of code should be removed.(ÛëàßýÿÿÿÿJ$e9d14076-2f8f-4567-9c0a-7211270b8bd5
-k	java:S106:"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿJ$6f58f161-ed1e-468b-9213-1bb813b164e1
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™‚´’ûÿÿÿÿJ$f986d188-c98d-4f07-be2c-a75f7a3e98d6
+k	java:S106"+Replace this use of System.out by a logger.(§ï­õýÿÿÿÿJ$930a0856-48a6-45ef-9d12-0b95b46f108e
+f	java:S106"+Replace this use of System.out by a logger.(ƒ¨æ¡J$cb699013-6ab6-4ed9-861a-f94b44fe9ab8
+|	java:S125"<This block of commented-out lines of code should be removed.(ÁÒÈ‡ýÿÿÿÿJ$19011d5b-9e9a-4c98-b9f4-1b0e6e527a7f
+w	java:S125"<This block of commented-out lines of code should be removed.(Í·ÞÞJ$5f429191-04c9-4565-9fec-c8fac57d4e71
+f	java:S106*"+Replace this use of System.out by a logger.(Æ·È±J$85171d89-b80e-4785-8750-18f0216853e6
+k	java:S106."+Replace this use of System.out by a logger.(“¹ŒÈÿÿÿÿÿJ$4113dc42-e1b6-4c3e-816b-f04017691a94
+|	java:S1252"<This block of commented-out lines of code should be removed.(ÛëàßýÿÿÿÿJ$db2fb786-2317-4a94-9255-3ab8ba7a3f42
+k	java:S106:"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿJ$ea4e4834-f92a-4e48-b9de-930585752787

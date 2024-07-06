@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëê—Æúÿÿÿÿ8ÁöÁˆˆ2J$8e67c9bd-ece7-4cd5-9284-1561506bbaed
+”
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$0791bfb3-9755-4cce-b814-086616c1c116
+”
+java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$c950ff2e-187d-48ba-a214-1c1dde6fb5ab
+“
+java:S3008"PRename this field "MAX_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÓ8ÃöÁˆˆ2J$39ad0b03-59f5-4b77-ac49-49ba968a07a7
+g
+java:S1659	"Declare "K" on a separate line.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$82108155-6e60-44d9-924f-cbcbeee808fa
+L	java:S106,"+Replace this use of System.out by a logger.(ÜáæÃüÿÿÿÿ8òŞ’‰ˆ2

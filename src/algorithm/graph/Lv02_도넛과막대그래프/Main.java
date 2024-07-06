@@ -1,4 +1,4 @@
-package algorithm.programmers.Lv02_도넛과막대그래프;
+package algorithm.graph.Lv02_도넛과막대그래프;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

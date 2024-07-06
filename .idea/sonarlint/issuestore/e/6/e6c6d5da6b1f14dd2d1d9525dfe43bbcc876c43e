@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÒ’´ûÿÿÿÿ8ß†“²ˆ2J$8f11eee0-8408-4322-aed6-f7b2f33506f5
+”
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼«ìõÿÿÿÿÿ8â†“²ˆ2J$463a0000-0375-4fa9-a78a-07b4f7d1a4a0
+”
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼«ìõÿÿÿÿÿ8â†“²ˆ2J$4663a9c9-f992-42f3-ad7a-10e194b25a1c
+’
+java:S3008
+"ORename this field "Apps" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÙ…á8â†“²ˆ2J$60ed9122-39f1-4434-88b5-e9ae25bf7d7b
+†
+java:S1659	">Declare "M" and all following declarations on a separate line.(¼«ìõÿÿÿÿÿ8ä†“²ˆ2J$2559c837-6bdd-4de4-9097-e7d33eb4a923
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(œû¿Ø8é†“²ˆ2J$2332b958-0c6a-4d89-b0c9-7de691723969
+m	java:S1065"+Replace this use of System.out by a logger.(ßº“î8¯š”²ˆ2J$4f40bd15-405e-4537-adda-d47a41be759f

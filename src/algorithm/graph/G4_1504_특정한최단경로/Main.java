@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G4_1504_특정한최단경로;
+package algorithm.graph.G4_1504_특정한최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,38 +1,38 @@
 
-e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…®Æk
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ãÒŞ
-h
-java:S1192"MDefine a constant instead of duplicating this literal "clone_arr : " 4 times.(š°û–ûÿÿÿÿ
-]
-java:S1192"GDefine a constant instead of duplicating this literal "arr : " 4 times.(ùèœ‹
-@	java:S106"+Replace this use of System.out by a logger.(‘ô·Á
-?	java:S106"+Replace this use of System.out by a logger.(Ò øR
-@	java:S106"+Replace this use of System.out by a logger.(ùèœ‹
-;
-java:S2116"%Use "Arrays.hashCode(array)" instead.(ùèœ‹
-E	java:S106"+Replace this use of System.out by a logger.(š°û–ûÿÿÿÿ
-@
-java:S2116"%Use "Arrays.hashCode(array)" instead.(š°û–ûÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ñƒœæ
-‡
-java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ñƒœæ
-E	java:S106"+Replace this use of System.out by a logger.(û›ûåúÿÿÿÿ
-@	java:S106 "+Replace this use of System.out by a logger.(Ç¤ß“
-E	java:S106!"+Replace this use of System.out by a logger.(ŠôÄüÿÿÿÿ
-?	java:S106""+Replace this use of System.out by a logger.(‚‹
-?	java:S106*"+Replace this use of System.out by a logger.(Ò øR
-M
-java:S1135)"2Complete the task associated to this TODO comment.(‚Ùıÿÿÿÿ
-@	java:S106+"+Replace this use of System.out by a logger.(ùèœ‹
-;
-java:S2116+"%Use "Arrays.hashCode(array)" instead.(ùèœ‹
-E	java:S106,"+Replace this use of System.out by a logger.(š°û–ûÿÿÿÿ
-@
-java:S2116,"%Use "Arrays.hashCode(array)" instead.(š°û–ûÿÿÿÿ
-@	java:S106-"+Replace this use of System.out by a logger.(ñƒœæ
-‡
-java:S2159-"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ñƒœæ
-E	java:S106."+Replace this use of System.out by a logger.(û›ûåúÿÿÿÿ
-@	java:S106/"+Replace this use of System.out by a logger.(Ç¤ß“
-E	java:S1060"+Replace this use of System.out by a logger.(ŠôÄüÿÿÿÿ
-E	java:S1061"+Replace this use of System.out by a logger.(­ó†ªùÿÿÿÿ
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…®ÆkJ$41777135-570d-44a8-a54a-cb8063c1a789
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ãÒŞJ$6a392137-81d8-4716-ad90-b174608f912b
+
+java:S1192"MDefine a constant instead of duplicating this literal "clone_arr : " 4 times.(š°û–ûÿÿÿÿJ$8b5ee9da-feb0-4284-9189-a086a8e59c7d
+ƒ
+java:S1192"GDefine a constant instead of duplicating this literal "arr : " 4 times.(ùèœ‹J$0a0b8287-6103-4086-862b-7bc006550b73
+f	java:S106"+Replace this use of System.out by a logger.(‘ô·ÁJ$e6f333d0-37dd-43a2-8be8-f64f15bf2b24
+e	java:S106"+Replace this use of System.out by a logger.(Ò øRJ$6a58d157-be57-41cf-be57-f28d2b386fd2
+f	java:S106"+Replace this use of System.out by a logger.(ùèœ‹J$fdeb2431-df0d-4a57-9c56-faf1935e32ed
+a
+java:S2116"%Use "Arrays.hashCode(array)" instead.(ùèœ‹J$1569ae90-5de5-4d04-b077-bbac71220ca3
+k	java:S106"+Replace this use of System.out by a logger.(š°û–ûÿÿÿÿJ$535a6cbd-5ccc-48c9-8cc7-7b9f361f80e1
+f
+java:S2116"%Use "Arrays.hashCode(array)" instead.(š°û–ûÿÿÿÿJ$17972b20-4708-408b-85ff-46db90e164cb
+f	java:S106"+Replace this use of System.out by a logger.(ñƒœæJ$f958b686-d8a5-4ad3-b0ec-ca8cd2c71771
+­
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ñƒœæJ$d75081bc-2eb9-4aaf-a9f7-8aecd20657cf
+k	java:S106"+Replace this use of System.out by a logger.(û›ûåúÿÿÿÿJ$1599aa43-75f5-4d1e-9e55-cddef1781d9b
+f	java:S106 "+Replace this use of System.out by a logger.(Ç¤ß“J$0adcaeae-5bf8-4e3a-bdcb-882e0459503c
+k	java:S106!"+Replace this use of System.out by a logger.(ŠôÄüÿÿÿÿJ$baa323b1-a937-48d2-8e31-4f82d76e92cf
+e	java:S106""+Replace this use of System.out by a logger.(‚‹J$063f8500-b04a-486f-854d-2ce1add0a3bc
+e	java:S106*"+Replace this use of System.out by a logger.(Ò øRJ$981e6574-697c-48b3-a38c-33c33db03448
+s
+java:S1135)"2Complete the task associated to this TODO comment.(‚ÙıÿÿÿÿJ$cf705403-48c2-467c-a697-b8a7579677c6
+f	java:S106+"+Replace this use of System.out by a logger.(ùèœ‹J$d92b619a-b8ca-487a-bb0f-dbdc52e554fc
+a
+java:S2116+"%Use "Arrays.hashCode(array)" instead.(ùèœ‹J$e27beac2-830c-41b8-ae6b-25da0c58785f
+k	java:S106,"+Replace this use of System.out by a logger.(š°û–ûÿÿÿÿJ$edeae11a-eb7c-46dc-94d1-ccf40cf6ad47
+f
+java:S2116,"%Use "Arrays.hashCode(array)" instead.(š°û–ûÿÿÿÿJ$de03bde4-4d60-4938-8086-64fe9efc22d5
+f	java:S106-"+Replace this use of System.out by a logger.(ñƒœæJ$25a65f0b-53c8-4929-b53c-e49d11332813
+­
+java:S2159-"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ñƒœæJ$a5d391c6-6eea-4705-a6cd-60a90cecbad0
+k	java:S106."+Replace this use of System.out by a logger.(û›ûåúÿÿÿÿJ$8cc87176-c93a-48c9-a8d4-07be14fb2d67
+f	java:S106/"+Replace this use of System.out by a logger.(Ç¤ß“J$b0825cf0-6b69-489f-bd7d-71c6fd02078d
+k	java:S1060"+Replace this use of System.out by a logger.(ŠôÄüÿÿÿÿJ$5f2cee80-51c8-498e-b45d-ec6a5ebfd658
+k	java:S1061"+Replace this use of System.out by a logger.(­ó†ªùÿÿÿÿJ$382571ef-2d43-42ba-a133-b6d4d0793759

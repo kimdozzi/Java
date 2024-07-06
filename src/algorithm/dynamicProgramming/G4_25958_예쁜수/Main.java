@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G4_25958_예쁜수;
+package algorithm.dynamicProgramming.G4_25958_예쁜수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

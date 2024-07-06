@@ -1,4 +1,4 @@
-package algorithm.baekjoon.G5_12865_평벙한배낭;
+package algorithm.dynamicProgramming.G5_12865_평벙한배낭;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,42 +6,41 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-    private static Integer[][] dp;
-    private static int[][] stuff;
+    static int N, K;
+    static int[][] knapsack;
+    static int MAX_N;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
 
-        int N = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
-
-        dp = new Integer[N + 1][K + 1];
-        stuff = new int[N][2];
-
-        for (int i = 0; i < stuff.length; i++) {
+        knapsack = new int[N + 1][2];
+        for (int i = 1; i <= N; i++) {
             st = new StringTokenizer(br.readLine());
-            stuff[i][0] = Integer.parseInt(st.nextToken());
-            stuff[i][1] = Integer.parseInt(st.nextToken());
-        }
-        System.out.println(topDown(N - 1, K));
-    }
-
-    private static int topDown(int n, int k) {
-        if (n < 0) {
-            return 0;
+            knapsack[i][0] = Integer.parseInt(st.nextToken());
+            knapsack[i][1] = Integer.parseInt(st.nextToken());
         }
 
-        int curWeight = stuff[n][0];
-        int curValue = stuff[n][1];
+        int[][] dp = new int[N + 1][K + 1];
 
-        if (dp[n][k] == null) {
-            if (curWeight > k) {
-                dp[n][k] = topDown(n - 1, k);
-            } else {
-                dp[n][k] = Math.max(topDown(n - 1, k), topDown(n - 1, k - curWeight) + curValue);
+        // 1번째 물건부터 N번째 물건까지 모두 탐색
+        for (int i = 1; i <= N; i++) {
+            // 무게가 1인 경우부터 무게가 K인 경우까지 모두 탐색
+            for (int j = 1; j <= K; j++) {
+                // 해당 위치에 물건을 넣을 수 없는 경우 j > W
+                if (knapsack[i][0] > j) {
+                    dp[i][j] = dp[i - 1][j];
+                } else {
+                    // 현재 아이템을 넣기 전까지의 최대 가치와 현재 아이템이 들어왔을 때 최대 가치 중 큰 값을 dp[i][j]에 저장한다.
+                    // dp[i-1][j] : 현재 아이템이 들어오기 전 까지의 최대 가치
+                    // dp[i-1][j-knapsack[i][0]] : 현재 아이템을 넣기 전(i-1)까지의 가방의 무게(j)에서 들어오게 될 현재 아이템의 무게(knapsack[i][0])를 제외헀을 때의 최대 가치
+                    // knapsack[i][1] : 현재 아이템의 가치
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - knapsack[i][0]] + knapsack[i][1]);
+                }
             }
         }
-        return dp[n][k];
+        System.out.println(dp[N][K]);
     }
 }

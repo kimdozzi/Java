@@ -1,4 +1,4 @@
-package algorithm.baekjoon.S2_27525_1차원2048과쿼리;
+package algorithm.S2_27525_1차원2048과쿼리;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
