@@ -1,4 +1,4 @@
-package algorithm.baekjoon.S2_17276_배열돌리기;
+package algorithm.samsung.arrayRotation.S2_17276_배열돌리기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

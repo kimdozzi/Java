@@ -3,6 +3,7 @@ package algorithm.baekjoon.G5_2293_동전1;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -19,5 +20,12 @@ public class Main {
         }
 
         dp[0] = 1;
+        for(int i=0; i<n; i++) {
+            int coin = coins[i];
+            for(int j=coin; j<=k; j++) {
+                dp[j] = dp[j] + dp[j - coin];
+            }
+        }
+        System.out.println(dp[k]);
     }
 }
