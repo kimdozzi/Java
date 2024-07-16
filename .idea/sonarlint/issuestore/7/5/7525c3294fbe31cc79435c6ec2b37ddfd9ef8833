@@ -1,7 +1,7 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û†Ì‘şÿÿÿÿ8š‡˜·‡2J$97ecbb86-c19c-4394-90f6-4bfababc7daf
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É‡í£úÿÿÿÿ8›‡˜·‡2J$b54f9c71-24c1-46da-9f7d-ced9b5b46eba
-m	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8 ‡˜·‡2J$d6b6f2a8-e1ff-407b-9133-154e20635d3e
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û†Ì‘şÿÿÿÿ8š‡˜·‡2J$75e262d4-4e5c-495f-b183-970280c88be8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É‡í£úÿÿÿÿ8›‡˜·‡2J$ae02e4e3-8d71-461c-b367-3a217e08e8c1
+m	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8 ‡˜·‡2J$024549a8-efe8-4119-b897-1f08e499f410
 
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(û†Ì‘şÿÿÿÿ8 ‡˜·‡2J$8ce2adce-20f6-4a28-abeb-8e219d0592ed
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(õ”Åñùÿÿÿÿ8å—°·‡2J$01e42a78-8017-41a9-8d33-cd737611a1c0
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(û†Ì‘şÿÿÿÿ8 ‡˜·‡2J$97f8b96e-5c5f-432d-a773-149febf91603
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(õ”Åñùÿÿÿÿ8å—°·‡2J$6ec47169-972f-45b1-a9be-6563e7661271

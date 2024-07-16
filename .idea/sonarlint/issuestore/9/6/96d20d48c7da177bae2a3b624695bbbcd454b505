@@ -1,0 +1,50 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÓö«şÿÿÿÿ8ÃèÔ­‹2J$f6d1aa66-c718-456d-926a-79861e9d6957
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É­†û8ÄèÔ­‹2J$3d62e0d7-6b5c-4595-b26c-72ed60cf0ed5
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ÿğ»8ÅèÔ­‹2J$416c5799-f4f6-4a91-aa07-baf7ef559c64
+˜	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8ÅèÔ­‹2J$99448dbc-4a76-4183-a8b0-20464cbaacde
+˜	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8ÅèÔ­‹2J$ec5f341f-aa03-4cdc-91f9-436334a29355
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ı€ôÅüÿÿÿÿ8¨’«°‹2J$eb30b352-c83d-43f7-9298-95e6ac0f6301
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8ËèÔ­‹2J$e118fc17-a235-437a-8bc7-0a25db551a25
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8ÌèÔ­‹2J$4d9529d6-1130-4051-bf1f-6302117bcefd
+g
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8ÎèÔ­‹2J$d681db98-5fa6-44e8-9e62-e98dc8aa48c6
+˜
+java:S1450"PRemove the "M" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8ÑèÔ­‹2J$db553747-5d49-46ae-8784-1c22fd7c130e
+˜
+java:S1450"PRemove the "N" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8ÒèÔ­‹2J$0518a634-6b4b-438e-b00b-4ed9511efc54
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(­‚¤ùÿÿÿÿ8ÖèÔ­‹2J$b71f8fe7-ff90-4fd4-a8ba-9c69b7677a3c
+ˆ
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(€üä‡8×èÔ­‹2J$84899a0a-1fa5-4114-8548-44321b0b1c3f
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÚÈÂá8×èÔ­‹2J$95188933-2164-4e5b-ba78-77afe78da3f9
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ş¿õşÿÿÿÿ8×èÔ­‹2J$b59baed6-a059-4e94-8534-df8d6840d1ee
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Î¨¬ß8ØèÔ­‹2J$6f1b8930-a555-4848-98be-4d93db0ec65e
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•Õ—•8ØèÔ­‹2J$03e695a1-0c6b-4bea-859b-eccda7a3105e
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8ØèÔ­‹2J$dd891bb3-6833-4560-9b23-fa0dcfa192b3
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ı€ôÅüÿÿÿÿ8ÛèÔ­‹2J$d47cec26-2738-42c8-935d-c19d056ba26b
+g
+java:S1659"Declare "F" on a separate line.(ÔÓö«şÿÿÿÿ8ÛèÔ­‹2J$a24eb2b4-c0a1-43c2-b9ed-a49adea2d5b9
+i
+java:S1659"!Declare "id2" on a separate line.(„²‚‹úÿÿÿÿ8ÛèÔ­‹2J$664a8ae9-5143-44bf-8c5e-19dda67674d8
+f
+java:S1659"#Declare "len_a" on a separate line.(É­†û8ÜèÔ­‹2J$8d24fbf4-d411-46bd-a5c2-e18edf029e5c
+m
+java:S1197"*Move the array designators [] to the type.(İÇŒÌ8ÜèÔ­‹2J$e48d3125-33d2-4298-b859-c19459d6290c
+m
+java:S1197"*Move the array designators [] to the type.(·šëê8ÜèÔ­‹2J$4113e8fc-2a3b-4d3e-a221-23725dc9e929
+m
+java:S1197"*Move the array designators [] to the type.(…Ÿğ»8ÜèÔ­‹2J$870aa247-ac93-4d71-bbc5-da351e5c9be8
+i	java:S131(""Add a default case to this switch.(Ï—íàıÿÿÿÿ8ãèÔ­‹2J$42a40ca5-e87c-4961-9615-d2dda72b26c0
+j
+java:S1659Y""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8ëèÔ­‹2J$01ab1fd6-94f4-4fb4-a6f6-3e9fc50a425b
+ƒ	java:S125["<This block of commented-out lines of code should be removed.(ù†ôúÿÿÿÿ8ëèÔ­‹2J$b40df8d7-e0c2-4bf9-86d4-8f28a2b61371
+r	java:S106e"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8º’«°‹2J$5fd48912-a5a9-4891-bc22-4fd4bfc7a15f

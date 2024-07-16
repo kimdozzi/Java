@@ -1,11 +1,11 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëê—Æúÿÿÿÿ8ÁöÁˆˆ2J$8e67c9bd-ece7-4cd5-9284-1561506bbaed
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëê—Æúÿÿÿÿ8ÁöÁˆˆ2J$3ea2890d-49ae-4625-bd4c-45e57d788766
 ”
-java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$0791bfb3-9755-4cce-b814-086616c1c116
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$1e1c2f1d-0557-4d9a-82a6-dfc54fe6c3cb
 ”
-java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$c950ff2e-187d-48ba-a214-1c1dde6fb5ab
+java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$cbb4d079-01ee-4fdc-a080-6de812c95765
 “
-java:S3008"PRename this field "MAX_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÓ8ÃöÁˆˆ2J$39ad0b03-59f5-4b77-ac49-49ba968a07a7
+java:S3008"PRename this field "MAX_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÓ8ÃöÁˆˆ2J$d5decf17-875e-4a79-a946-e6d1a2fbfd65
 g
-java:S1659	"Declare "K" on a separate line.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$82108155-6e60-44d9-924f-cbcbeee808fa
-L	java:S106,"+Replace this use of System.out by a logger.(ÜáæÃüÿÿÿÿ8òŞ’‰ˆ2
+java:S1659	"Declare "K" on a separate line.(Ô« Ãúÿÿÿÿ8ÃöÁˆˆ2J$0afcc668-f2ec-403d-b178-0ad68f8dcd2a
+r	java:S106,"+Replace this use of System.out by a logger.(ÜáæÃüÿÿÿÿ8òŞ’‰ˆ2J$d21378ce-911a-4bf3-8e8c-584ddc50578a

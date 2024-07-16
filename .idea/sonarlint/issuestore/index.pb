@@ -71,3 +71,17 @@ i
 9src/algorithm/dynamicProgramming/S2_1535_안녕/Main.java,8\e\8eebdc79cb9daba6f2a31701902f5568d505fcff
 w
 Gsrc/algorithm/samsung/arrayRotation/G5_16935_배열돌리기3/Main.java,4\6\46b88a861c57e6e4c5bfb56a89360f10bb3b2765
+k
+;src/algorithm/bruteforce/S2_16924_십자가찾기/Main.java,1\e\1e55bee5df76125660713425850a9cd55960b0ca
+c
+3src/algorithm/graph/G4_14226_이모티콘/Main.java,6\6\66276916fb73d8d236892df0f9e3255aca376949
+_
+/src/algorithm/graph/G5_16936_나3곱2/Main.java,7\2\7264d9a9ec594704d81b2821e2cd46762a0ec131
+X
+(src/algorithm/samsung/dx01/Solution.java,6\7\67bb81efa9afc492f80d4de9dc4b2f363f84f697
+\
+,src/algorithm/samsung/dx01/UserSolution.java,a\6\a6e08c025cab541c26af0a53f29b9d55dfff815c
+X
+(src/algorithm/samsung/dx02/Solution.java,9\6\96d20d48c7da177bae2a3b624695bbbcd454b505
+\
+,src/algorithm/samsung/dx02/UserSolution.java,1\a\1a1ea94ee8f35c709dfdc74ba6c18e26f5acc01a

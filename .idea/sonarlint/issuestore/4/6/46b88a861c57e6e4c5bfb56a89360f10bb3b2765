@@ -1,13 +1,13 @@
 
-l	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚ³38½©ò¶ˆ2
-m	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚ³38½©ò¶ˆ2
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ýƒ•Éýÿÿÿÿ8¾©ò¶ˆ2
-n
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2
-n
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2
-n
-java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2
-`
-java:S1659">Declare "M" and all following declarations on a separate line.(Ì–Ãèùÿÿÿÿ8Ä©ò¶ˆ2
-M	java:S106É"+Replace this use of System.out by a logger.(À¨Ï—ýÿÿÿÿ8Ü©ò¶ˆ2
+’	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚ³38½©ò¶ˆ2J$b381c468-628c-4008-97e4-62ae947c4fca
+“	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÚ³38½©ò¶ˆ2J$7e814a13-9bd5-4311-bf98-a5eeb18eb1a6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ýƒ•Éýÿÿÿÿ8¾©ò¶ˆ2J$f52c2525-a8b2-4059-b4e0-df0dc52f46ca
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2J$4429d909-2088-4316-acc5-2e78a063d4f8
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2J$327652bf-104b-49c2-8156-be5aa29d1d00
+”
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ãèùÿÿÿÿ8Ã©ò¶ˆ2J$dd36df13-82a5-44dc-af09-359f55dad1bd
+†
+java:S1659">Declare "M" and all following declarations on a separate line.(Ì–Ãèùÿÿÿÿ8Ä©ò¶ˆ2J$ce272ae4-cfa4-4aed-b7c2-b0d32912824b
+s	java:S106É"+Replace this use of System.out by a logger.(À¨Ï—ýÿÿÿÿ8Ü©ò¶ˆ2J$8170224e-340d-4df7-b349-71d9c4c1c383

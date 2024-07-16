@@ -1,0 +1,21 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—‘ãÉ8“½’Ö‰2J$7c035c11-cbdc-4f2f-aa81-47c3e2065eab
+ 	java:S135]"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8„€±Ö‰2J$1d024180-5ff9-4deb-93fd-1dd47e393f68
+
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8–½’Ö‰2J$82a34ee1-cdec-485a-9ffd-ca1b04bd83b5
+
+java:S3008
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8–½’Ö‰2J$d5023c0d-d285-4265-8241-a8bcd4a12f12
+b
+java:S1659
+"Declare "M" on a separate line.(ğ ¬ï8—½’Ö‰2J$24ce45aa-34a9-447a-af71-59c3c7798cdb
+r
+java:S1144:"*Remove this unused private "print" method.(¿¹ÿÿÿÿÿ8¯ş³Ö‰2J$cd0ed38b-2c47-4f5b-bd0d-1c0a579c6904
+~	java:S125*"<This block of commented-out lines of code should be removed.(¥Ï8¶ş³Ö‰2J$fa23a0bb-c489-4b6a-a082-dcf8679891d9
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(°Èîøÿÿÿÿ8¶ş³Ö‰2J$fa1470f6-06ea-4e5d-b7e8-e0c4f460fbbc
+r	java:S1061"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8€±Ö‰2J$78c82158-1edf-4d88-bb6d-d0be4c3d96d0
+l	java:S1066"+Replace this use of System.out by a logger.(ü„ê!8äÆ¡Ö‰2J$4aacc4b4-5cb0-4f47-8aa7-0539fd810507
+r	java:S1067"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8€±Ö‰2J$50c2912a-232a-4f23-a23d-d505abe40f81
+r	java:S106="+Replace this use of System.out by a logger.(©Šùÿÿÿÿ8‘€±Ö‰2J$93dbb8f1-8ba4-4e09-b78f-304e04baa0c5
+r	java:S106?"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘€±Ö‰2J$8de58c30-0072-4b7b-b0a8-ce141f9b99c4

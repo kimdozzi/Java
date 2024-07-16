@@ -1,7 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙùÀ8óù‹³ˆ2J$d39f2e3b-5881-427c-86fc-8310b9a7119a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙùÀ8óù‹³ˆ2J$d2cf494a-12c0-4739-a7f4-f23269edf266
 ”
-java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8öù‹³ˆ2J$0285e1a9-1146-4663-abce-28daee6f355f
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8öù‹³ˆ2J$be769ce8-c2ff-4c46-a977-f9a4458b9724
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8ùù‹³ˆ2J$9b9f1f89-c96b-4180-a5b7-2da5d851dd51
-m	java:S106."+Replace this use of System.out by a logger.(È„™¦8†ú‹³ˆ2J$ee388bb6-6944-4fec-be3f-602faf776e1d
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8ùù‹³ˆ2J$f4b9f87d-3cba-450b-8daa-ecea8195ae69
+m	java:S106."+Replace this use of System.out by a logger.(È„™¦8†ú‹³ˆ2J$4420116b-172d-49fe-b4d3-b47a60af383f

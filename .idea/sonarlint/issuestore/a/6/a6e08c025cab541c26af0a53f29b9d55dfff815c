@@ -1,0 +1,27 @@
+
+x
+java:S3740 "/Provide the parametrized type for this generic.(³“Ïâøÿÿÿÿ8Ï¯ÜÅ‹2J$d2dc7ffe-f03c-4057-aedd-36f0f7bebd27
+x
+java:S3740Ì"/Provide the parametrized type for this generic.(³“Ïâøÿÿÿÿ8Ï¯ÜÅ‹2J$77e07b68-d178-4d30-812e-3f5a9072134b
+œ	java:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë8Ð¯ÜÅ‹2J$a0cf0ef5-dacd-4490-9d74-8ab51782cb77
+œ	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë8Ð¯ÜÅ‹2J$de52e490-aa94-4691-8771-a922a6cc7784
+l
+java:S1659"$Declare "emptyX" on a separate line.(£“÷žÿÿÿÿÿ8Ô¯ÜÅ‹2J$aed0294f-01de-4ca7-b7dd-a232e9b0f969
+r
+java:S1197"*Move the array designators [] to the type.(ÜÑÂûùÿÿÿÿ8Ù¯ÜÅ‹2J$71fe5557-9896-416f-8a08-c72ea1ea0ef4
+r
+java:S1197"*Move the array designators [] to the type.(ãÓ¿‡þÿÿÿÿ8Ù¯ÜÅ‹2J$ee40b1e7-3264-406c-97c9-b7f546950ef3
+•
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ª´¬ú8â¯ÜÅ‹2J$ae57447f-aefb-48e5-93c6-d97c1ac08b23
+v
+java:S1172B"3Remove this unused method parameter "callCntLimit".(ª´¬ú8â¯ÜÅ‹2J$f8e5f013-4659-4ab6-a66b-7dd0e7e303d8
+x
+java:S2696J"6Make the enclosing method "static" or remove this set.(£éß98ä¯ÜÅ‹2J$1117e5a9-32b5-4618-a924-4f12bed42bb6
+y
+java:S2696K"6Make the enclosing method "static" or remove this set.(¡à¹¡8ä¯ÜÅ‹2J$7cee9400-9f06-4f1f-b18a-37672753661e
+„
+java:S1659Z"BDeclare "distY" and all following declarations on a separate line.(û²¶l8ç¯ÜÅ‹2J$f1e5aa72-0653-4b36-8d58-3dd026082d2a
+š
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÑãÑ§ÿÿÿÿÿ8ì¯ÜÅ‹2J$6e0080b8-a985-4878-8471-03e6d933d84f
+–
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Õ‰öª8ò¯ÜÅ‹2J$309add7e-9533-4a54-be87-6f223acd169e
