@@ -1,4 +1,4 @@
-package datastructure.제곱근분할법;
+package algorithm.제곱근분할법;
 
 /*
  * 제곱근 분할법 (square root decomposition)
