@@ -1,4 +1,4 @@
-package algorithm.samsung.dx01;
+package algorithm.samsung.dx특강사전문제.dx01;
 
 import java.util.Scanner;
 
