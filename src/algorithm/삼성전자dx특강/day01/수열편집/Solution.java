@@ -1,4 +1,4 @@
-package algorithm.samsung.삼성전자dx특강.day01.수열편집;
+package algorithm.삼성전자dx특강.day01.수열편집;
 
 import java.util.LinkedList;
 import java.util.Scanner;
