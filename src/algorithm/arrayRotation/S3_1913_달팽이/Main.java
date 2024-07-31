@@ -1,4 +1,4 @@
-package algorithm.samsung.arrayRotation.S3_1913_달팽이;
+package algorithm.arrayRotation.S3_1913_달팽이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,0 +1,22 @@
+
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ―•ώÿÿÿÿ8”ρχ¶2
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ώΥςϊÿÿÿÿ8•ρχ¶2
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χϊΕϊÿÿÿÿ8•ρχ¶2
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χϊΕϊÿÿÿÿ8—ρχ¶2
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿΪƒ›ωÿÿÿÿ8«χ¶2J$50134e7a-04fc-4e20-af45-cf57fb0540d2
+g
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ΎΕζϋÿÿÿÿ8Ήρχ¶2
+b
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(―Κγή8½ρχ¶2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(μ›Ήψÿÿÿÿ8½ρχ¶2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ά½ϋ†ϊÿÿÿÿ8½ρχ¶2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤Ίωÿÿÿÿ8½ρχ¶2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥ΐύÿÿÿÿ8Ύρχ¶2
+D
+java:S1659W""Declare "MARK" on a separate line.(χϊΕϊÿÿÿÿ8Χρχ¶2
+]	java:S125Y"<This block of commented-out lines of code should be removed.(ω†τϊÿÿÿÿ8Ωρχ¶2
+L	java:S106e"+Replace this use of System.out by a logger.(¨νΝ“ωÿÿÿÿ8ιρχ¶2

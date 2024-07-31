@@ -1,0 +1,28 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äñÍ¼
+K
+java:S3740 "/Provide the parametrized type for this generic.(³“Ïâøÿÿÿÿ
+K
+java:S3740Ì"/Provide the parametrized type for this generic.(³“Ïâøÿÿÿÿ
+o	java:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë
+o	java:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë
+?
+java:S1659"$Declare "emptyX" on a separate line.(£“÷žÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ÜÑÂûùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ãÓ¿‡þÿÿÿÿ
+h
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ª´¬ú
+I
+java:S1172B"3Remove this unused method parameter "callCntLimit".(ª´¬ú
+K
+java:S2696J"6Make the enclosing method "static" or remove this set.(£éß9
+L
+java:S2696K"6Make the enclosing method "static" or remove this set.(¡à¹¡
+W
+java:S1659Z"BDeclare "distY" and all following declarations on a separate line.(û²¶l
+m
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÑãÑ§ÿÿÿÿÿ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Õ‰öª

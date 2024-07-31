@@ -1,4 +1,4 @@
-package algorithm.samsung.arrayRotation.G5_16935_배열돌리기3;
+package algorithm.arrayRotation.G5_16935_배열돌리기3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

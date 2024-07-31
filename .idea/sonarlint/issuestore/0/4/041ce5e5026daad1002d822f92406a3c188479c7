@@ -1,0 +1,20 @@
+
+“	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¶Ëú8Æ·¾‹2J$8683a20f-0277-440f-bedf-55954f91a04b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÍã¡8„ÏÃ2J$dcd99c59-bc38-46c3-99a9-0a274459cb19
+l
+java:S1659"$Declare "emptyX" on a separate line.(£“÷ÿÿÿÿÿ8Í·¾‹2J$a9e7cb8f-a764-4bc2-9b33-7773fd7cb305
+r
+java:S1197"*Move the array designators [] to the type.(œœ˜ëøÿÿÿÿ8Ó·¾‹2J$e7aa255d-8915-497e-bb8d-ceb6e8de9e68
+r
+java:S1197"*Move the array designators [] to the type.(÷çôùÿÿÿÿ8Ó·¾‹2J$ff9ee4b4-17c8-4943-9831-db50649deb6f
+´
+java:S1130V"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ù·¾‹2J$00d6c3b9-e974-428f-9e41-1f511dee8c04
+b
+java:S1659W"Declare "T" on a separate line.(…¶Ëú8Ù·¾‹2J$79e7cb52-26fd-42b0-8ed6-26ac3e02c31c
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(ÓÍ¿šÿÿÿÿÿ8Ú·¾‹2J$f5505054-1121-4112-bca2-971cddf7b76c
+r	java:S106a"+Replace this use of System.out by a logger.(Üí’ôÿÿÿÿÿ8¤µù¦‹2J$740dc078-5c89-4227-b8df-3068de944cbe
+m	java:S106c"+Replace this use of System.out by a logger.(‰ò‚º8’Ãû¦‹2J$60a9eb2d-2174-4661-b9d7-336077d55e2c
+q
+java:S1068")Remove this unused "RIGHT" private field.(Èà»Ÿùÿÿÿÿ8â·¾‹2J$ae6351fe-e2d7-4a3e-aea2-f6419c500a47
+p
+java:S1068	"(Remove this unused "DOWN" private field.(êä‹Üùÿÿÿÿ8â·¾‹2J$6f618794-0141-4278-a1c0-a727a9db7da7

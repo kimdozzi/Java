@@ -1,0 +1,25 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÆÆÎøÿÿÿÿ8ªÈ¶ò2J$c7cc4471-349b-4324-8bd1-c53d3f1d7e52
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨çá8ªÈ¶ò2J$10cc1d7c-5d5b-4745-8d00-963197e7e498
+”
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$e8a654d4-1b37-4dae-ad04-6079c298a9e0
+”
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$52b428f6-a5ea-4360-ab3c-39ebc39df7cd
+”
+java:S3008	"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$0825d848-5b0a-4e06-85d1-5c5250f39e40
+†
+java:S1659	">Declare "M" and all following declarations on a separate line.(©æ©˜ÿÿÿÿÿ8¯È¶ò2J$128c8011-8929-4d18-9c2c-fae4c6c0d66a
+˜
+java:S1450	"PRemove the "L" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8¯È¶ò2J$bd5e2e81-b1d5-4996-9aa1-1f8ab7b680da
+˜
+java:S1450	"PRemove the "M" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8°È¶ò2J$8530ee5a-f375-4748-a85b-7534f726edc4
+˜
+java:S1450	"PRemove the "N" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8°È¶ò2J$8b9b480b-fc3e-4a19-b6b9-4463735a5f68
+r
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8¶È¶ò2J$2a26e696-131c-4c74-843e-980939e60457
+”
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒÑíª8ï¿ò2J$6643ac9d-e481-428f-b4cd-d3f2e0540e11
+m	java:S1062"+Replace this use of System.out by a logger.(ƒÑíª8½È¶ò2J$da61cda9-20d8-497b-ab43-c82bf0c47c8a
+”
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(¦Ûè«8–¥¸ò2J$6e6a8341-b2b3-4888-a5d0-1bdc59a9d099
+m	java:S1064"+Replace this use of System.out by a logger.(¦Ûè«8½È¶ò2J$923eb4e3-b6ad-4b36-a9cc-13674cf68428

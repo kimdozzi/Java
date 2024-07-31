@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ä°‡úÿÿÿÿ
+f	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®àñ­
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÂŠÙþÿÿÿÿ
+5
+java:S1659"Declare "m" on a separate line.(¦Ùï¬
+E	java:S106G"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ
+c	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ˆÖ‡
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶½–Âùÿÿÿÿ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßîÒ…
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚µº½úÿÿÿÿ
+b	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÇ§U
+b	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÜ‡
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æä¢ßúÿÿÿÿ
