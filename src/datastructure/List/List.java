@@ -1,4 +1,4 @@
-package algorithm.samsung.STL.List;
+package datastructure.List;
 
 public interface List<E> {
     /**

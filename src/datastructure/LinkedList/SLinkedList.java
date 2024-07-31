@@ -1,6 +1,6 @@
-package algorithm.samsung.STL.LinkedList;
+package datastructure.LinkedList;
 
-import algorithm.samsung.STL.List.List;
+import datastructure.List.List;
 
 public class SLinkedList<E> implements List<E> {
 

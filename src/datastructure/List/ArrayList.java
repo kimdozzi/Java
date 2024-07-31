@@ -1,4 +1,4 @@
-package algorithm.samsung.STL.List;
+package datastructure.List;
 
 import java.util.Arrays;
 

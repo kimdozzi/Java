@@ -1,6 +1,7 @@
-package algorithm.samsung.STL.List;
+package datastructure.List;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,6 +14,10 @@ public class Main {
 
         list.toArray(strArr);
 
-    }
+        List<Integer> list2 = Arrays.asList(1, 2, 3);
+        List<Integer> list1 = List.of(1, 2, 3);
+        list1.add(1,5);
 
+        System.out.println(list1.toString());
+    }
 }

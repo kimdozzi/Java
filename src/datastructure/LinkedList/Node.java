@@ -1,4 +1,4 @@
-package algorithm.samsung.STL.LinkedList;
+package datastructure.LinkedList;
 
 public class Node<E> {
     E data;
