@@ -14,7 +14,6 @@ class UserSolution {
 
     void init(int H, int W, char mStr[]) {
 //        System.out.println("== init == ");
-
         for (int i = 0; i < MAX_H; i++) {
             ll[i] = new LinkedList<>();
         }
@@ -53,7 +52,6 @@ class UserSolution {
 
     void insert(char mChar) {
 //        System.out.println("== insert == ");
-        // 커서 위치에 해당 문자 삽입
         ll[curH].add(curW, mChar);
         memoBoard[curH][mChar - 'a']++;
         int i = curH;
@@ -120,7 +118,6 @@ class UserSolution {
 //        System.out.println("현재 커서 위치: " + curH + " " + curW);
         int cnt = 0;
 
-        // 해당 행의 mChar 개수 찾기
         for (int i = curW; i < ll[curH].size(); i++) {
             if (ll[curH].get(i) == mChar) {
                 cnt++;
