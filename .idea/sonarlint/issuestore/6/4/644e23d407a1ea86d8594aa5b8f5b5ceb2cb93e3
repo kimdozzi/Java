@@ -1,10 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œàÊ8™Ó»º2J$508e199c-1ebf-4d7e-8222-19329c5225b1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œàÊ8¢Î÷À2J$8e876879-eb32-4bf2-9d5b-dfa5577919e4
 m
-java:S1144e"*Remove this unused private "query" method.(ñ×Úí8Ó»º2J$fa9b5f1e-2780-4a41-8084-fe594e69aae5
+java:S1144["*Remove this unused private "query" method.(ñ×Úí8üıøÀ2J$901cb28d-181e-49f2-ad7e-4140b7aa138d
 •
-java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ñ×Úí8¢Ó»º2J$a61fb71e-1d81-4c26-9653-ad7231bb8808
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ñ×Úí8‘şøÀ2J$61956d5d-2f28-429e-9911-12ef6e1c0118
 k
-java:S1172e"(Remove this unused method parameter "d".(ñ×Úí8¢Ó»º2J$fa3707ea-2720-4f96-9264-410e073499ef
+java:S1172["(Remove this unused method parameter "d".(ñ×Úí8‘şøÀ2J$7b436166-9b1d-48ec-9986-a110122c83d3
 n
-java:S1481f"&Remove this unused "n" local variable.(˜Øô‘ıÿÿÿÿ8¢Ó»º2J$8e533337-8fb6-475c-a9c8-6bec72cbc6fd
+java:S1481\"&Remove this unused "n" local variable.(˜Øô‘ıÿÿÿÿ8’şøÀ2J$d5ab6921-c8c5-4335-aa34-47b509f5b40b

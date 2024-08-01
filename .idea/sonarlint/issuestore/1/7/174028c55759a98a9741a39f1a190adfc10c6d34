@@ -1,9 +1,0 @@
-
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒèÀ™8ÖßÜ•2J$7261811c-b6f9-4ddc-a826-7934d4517ca7
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8ÖßÜ•2J$7f0b62d6-4345-470d-9d00-78b9942f696c
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡É¹…øÿÿÿÿ8ÖßÜ•2J$8c95096a-0b15-4252-9f00-74ba910fbd08
-–
-java:S1450"SRemove the "tree" field and declare it as a local variable in the relevant methods.(é÷ƒ¨8ÛßÜ•2J$e582a965-a361-449f-a5c4-585e37fabd32
-r
-java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8ßßÜ•2J$a846c172-1eb4-45bf-9dcc-54d1fac4bf7f
-m	java:S106."+Replace this use of System.out by a logger.(îÿ“˜8èßÜ•2J$d018a983-42d5-4d10-83fd-99e85abf374a

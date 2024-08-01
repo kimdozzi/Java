@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ‘è½ùÿÿÿÿ
+Y
+java:S1659	">Declare "m" and all following declarations on a separate line.(Ù³ªáûÿÿÿÿ
+:
+java:S1659,"Declare "d" on a separate line.(ÂíÖƒıÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(À¨Ï—ıÿÿÿÿ

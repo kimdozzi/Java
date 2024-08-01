@@ -1,22 +1,22 @@
 
-˜	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8”ñ÷¶2J$8d6e6d9c-e1b7-46e2-af25-35574667bfe2
-˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( şÕòúÿÿÿÿ8•ñ÷¶2J$d6a2fd24-80b4-47d7-b7b1-926620e1f226
-˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8•ñ÷¶2J$61466475-c39f-46cb-a589-5bdc11a0a87f
-˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8—ñ÷¶2J$2ce43a04-78a2-4cdf-a30f-3937771d53e1
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êéˆÍ8«÷¶2J$fb88a546-e05c-426e-a592-1dce73ede4b4
+˜	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8›éÁŞ2J$5f65b072-781d-4495-bde3-2c3ea063118c
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( şÕòúÿÿÿÿ8œéÁŞ2J$2008c5d0-3974-406a-a06e-005bd562a022
+˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8œéÁŞ2J$f7309b42-c70a-4799-a0d0-72f789f4abca
+˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8œéÁŞ2J$3fe2e5da-0e9c-4474-9de6-d3a6b90ddc6a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êéˆÍ8¦ÜÄŞ2J$ec5f9adc-fdb7-4fcb-8547-30a1c0783f8e
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éÿææûÿÿÿÿ8¨ÜÄŞ2J$593fa9e0-94c2-40d3-8248-3755cc26127b
 
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¾Åæ˜ûÿÿÿÿ8¹ñ÷¶2J$d77846ed-715d-40ae-8e2e-62da5efa0eac
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¾Åæ˜ûÿÿÿÿ8©éÁŞ2J$5a851065-e289-4a60-9062-298f2918887b
 ˆ
 java:S1124
-"EReorder the modifiers to comply with the Java Language Specification.(¯ÊãŞ8½ñ÷¶2J$941d57ce-89e8-4b5c-8d38-8dc6ad20b8ff
+"EReorder the modifiers to comply with the Java Language Specification.(¯ÊãŞ8©éÁŞ2J$749ac4b2-42b1-4368-9cd6-89f725ca99b8
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šì›¹øÿÿÿÿ8½ñ÷¶2J$d3a7c8c6-c4ae-40a8-bec4-2055619797cf
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šì›¹øÿÿÿÿ8©éÁŞ2J$fea6f112-c034-415b-8900-cc701b0102b2
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢½û†úÿÿÿÿ8½ñ÷¶2J$7d49c597-1184-40ac-a36a-e50db60b1002
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢½û†úÿÿÿÿ8©éÁŞ2J$4bd217ce-49d9-4935-9d19-be3f49192a86
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8½ñ÷¶2J$84804381-5593-4d2a-a279-3b30dc5f3d8e
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥Àıÿÿÿÿ8¾ñ÷¶2J$faa1e1b2-c3a4-49cb-b951-a65eba0fa18e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8©éÁŞ2J$0853910e-61e3-45fa-a033-c88fde4749c2
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥Àıÿÿÿÿ8«éÁŞ2J$8c6c06b6-4ddd-4b7f-8250-c9f2f388648e
 j
-java:S1659W""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8×ñ÷¶2J$ad2905b2-730a-4ae0-a2d3-8a7d8b3f1c4a
-ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(ù†ôúÿÿÿÿ8Ùñ÷¶2J$7ae7a134-b2c4-40e8-a4dd-2f31c77a80ff
-r	java:S106e"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8éñ÷¶2J$c3d5f974-d477-46a9-9453-671da16470a2
+java:S1659W""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8»éÁŞ2J$02ee7edb-0dbe-4cd8-a132-587b0c8677a6
+r	java:S106e"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8ÁéÁŞ2J$8f9d38c8-1bea-4b2a-9885-e90d2da0b08a

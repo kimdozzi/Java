@@ -1,15 +1,0 @@
-
-	java:S101'"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§°¬éüÿÿÿÿJ$086017a9-2289-4e6a-940c-4b76d61e3c9a
-
-java:S2184C"ECast one of the operands of this subtraction operation to a "double".(È½£ÑJ$5a365b55-814c-4a3f-93c3-266b943ab485
-ƒ
-java:S2259="BA "NullPointerException" could be thrown; "seat" is nullable here.(¯Üæ³şÿÿÿÿJ$5661fd73-fe91-4cb8-add5-021ea686282a
-”	java:S135K"YReduce the total number of break and continue statements in this loop to use at most one.(¯ÄâJ$d05c9ba5-2d56-4410-b0b7-0d54506b7baf
-•
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(€òøÉJ$d3bfab77-ca55-43e9-b1b6-cc480a224c77
-`
-java:S1659"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿJ$1c79660a-4afc-4b97-8c15-cf4cd03c3d9e
-e
-java:S1659("$Declare "answer" on a separate line.(ÃšüŸÿÿÿÿÿJ$0504d106-de35-4e7b-b3ae-fd2104a7152c
-f	java:S1067"+Replace this use of System.out by a logger.(ô¤„åJ$d20db98b-3795-433e-8a54-b29c67bf1181
-‰	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßîÒ…J$cb06fbfd-0f50-486b-a885-af09fa078cf8
