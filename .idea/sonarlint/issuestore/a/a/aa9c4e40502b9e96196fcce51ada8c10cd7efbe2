@@ -1,0 +1,36 @@
+
+˜	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒ¡ªşÿÿÿÿ8Ö—¦‚‘2J$77c23404-df36-4177-824b-84a215d17823
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«†á„üÿÿÿÿ8Ö—¦‚‘2J$3ca2c9be-ee4b-487e-ac05-fc27e9bbf8a7
+™	java:S127>"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ú—¦‚‘2J$84aa3919-aaeb-49cb-9dcf-ebdde1c2e818
+“
+java:S3008
+"PRename this field "SCORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æ¨ú8à—¦‚‘2J$e0e8bc2e-d3a9-40c0-83a5-e1886d0d3c31
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°åè8˜¦‚‘2J$ae86b278-f22f-4cca-9108-c48c3762f321
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¶¿§ÿÿÿÿÿ8 ˜¦‚‘2J$898068a1-1d95-4692-bf01-d1918f9d2c3d
+m
+java:S1197"*Move the array designators [] to the type.(ßî 8¡˜¦‚‘2J$0cbfeddf-82ec-4bda-b60e-086b3caed7c2
+r
+java:S1197"*Move the array designators [] to the type.(ÂÉ›Ôùÿÿÿÿ8¢˜¦‚‘2J$db084993-0e5e-4d79-bbaf-35b1fd827e08
+r
+java:S1197"*Move the array designators [] to the type.(Á®×Œûÿÿÿÿ8¢˜¦‚‘2J$c714042a-e20f-4b83-8e85-a34925d69094
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(ŞØ¸Ã8¢˜¦‚‘2J$deb8bbf2-f295-491d-a9bb-ce7490eccbc7
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(Ñ×†³ÿÿÿÿÿ8¢˜¦‚‘2J$11c4e6b8-06b1-45c6-a724-852e2e238c7a
+j
+java:S1125 "'Remove the unnecessary boolean literal.(ò¹â÷8£˜¦‚‘2J$2c7234a8-1f47-4ef0-b6de-dc1c8449627a
+~
+java:S2696!"6Make the enclosing method "static" or remove this set.(¤àôÔûÿÿÿÿ8£˜¦‚‘2J$54e0598c-c015-4335-bc6d-66d2aa597602
+o
+java:S1125)"'Remove the unnecessary boolean literal.(„Ñÿ²şÿÿÿÿ8£˜¦‚‘2J$82a3c79e-e7a2-4914-8998-ae7b00caa3ce
+o
+java:S1125)"'Remove the unnecessary boolean literal.(„Ñÿ²şÿÿÿÿ8£˜¦‚‘2J$55c2ee71-c4c4-4582-8e6e-5ae982fbff08
+e
+java:S30102""Remove this assignment of "SCORE".(Ó³Ùó8¤˜¦‚‘2J$662821f9-89ab-4b22-ba45-4aa62f96260e
+´
+java:S1130H"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8øß°Š‘2J$33595486-866e-4b28-b0b2-3d5c5469b173
+r	java:S106Q"+Replace this use of System.out by a logger.(œşË¢şÿÿÿÿ8êÍŒƒ‘2J$206fb4ed-ae34-42f7-93b2-84da7ae55ae1
+r	java:S106R"+Replace this use of System.out by a logger.( áûıÿÿÿÿ8‚‰™ƒ‘2J$73378356-58b0-4bf3-9115-db3a4e53f63d
+l	java:S106V"+Replace this use of System.out by a logger.(Ü˜éJ8ÈÀÍ„‘2J$5f6f18dd-6633-4b1e-bda0-66794469e999

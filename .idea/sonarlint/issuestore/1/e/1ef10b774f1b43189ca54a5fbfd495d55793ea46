@@ -1,69 +1,69 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öôğ8Œá˜ê2J$36d6eeed-1661-4df9-9ca0-ade2f6d742b9
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öôğ8á˜ê2J$903c2e81-a038-4b7d-9e50-621bbc5c9719
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êéˆÍ8á˜ê2J$4f2b66ca-4746-4174-bf0c-a6d460483b6d
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öôğ8Œá˜ê2J$64292b45-caf1-4367-b56f-9f8fc77934f7
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öôğ8á˜ê2J$c492e155-0a97-444b-a61f-fcdec20225a0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êéˆÍ8á˜ê2J$c3bbc224-487b-4008-9cf2-2a2c25db9955
 ˜
-java:S3008"PRename this field "MAX_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı…‰Êúÿÿÿÿ8á˜ê2J$aac704a6-a77b-4a52-93f0-97854b3a9707
+java:S3008"PRename this field "MAX_H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı…‰Êúÿÿÿÿ8á˜ê2J$1a6bf2af-42ed-45c8-b559-3a603f3900a6
 ˜
-java:S3008"PRename this field "MAX_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ½¹…şÿÿÿÿ8á˜ê2J$a98e514f-2a48-4d25-ad77-f3b156637003
+java:S3008"PRename this field "MAX_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ½¹…şÿÿÿÿ8á˜ê2J$d40ab9da-9f8b-4936-a707-69a0915eb731
 m
-java:S1197"*Move the array designators [] to the type.(¬öôğ8•á˜ê2J$1b888a7d-6b0f-4332-b183-e6223a375571
-}	java:S125"<This block of commented-out lines of code should be removed.(„€„M8•á˜ê2J$7d1602a9-dc99-48e2-b3cc-754db3254b0c
+java:S1197"*Move the array designators [] to the type.(¬öôğ8•á˜ê2J$0961fb86-031f-4bd7-811e-436a55e111ea
+}	java:S125"<This block of commented-out lines of code should be removed.(„€„M8•á˜ê2J$bb3a3a6c-978b-40d8-9921-7b06ef597b53
 y
-java:S2696"6Make the enclosing method "static" or remove this set.(äüÆ8•á˜ê2J$fe30b5bf-d363-45ef-8937-aac45b9006d0
+java:S2696"6Make the enclosing method "static" or remove this set.(äüÆ8•á˜ê2J$cc473989-ba4f-4817-a8b3-cfbbff7ddb1f
 ~
-java:S2696"6Make the enclosing method "static" or remove this set.(¸ƒ½ğüÿÿÿÿ8–á˜ê2J$47b7eb5e-74cd-4c7b-9278-1372797f594e
+java:S2696"6Make the enclosing method "static" or remove this set.(¸ƒ½ğüÿÿÿÿ8–á˜ê2J$3d4878f3-783e-4f24-81df-9a5dcdf7f7b8
 y
-java:S2696"6Make the enclosing method "static" or remove this set.(Ü—Ë8–á˜ê2J$0b2e57d7-a11d-40c3-8557-871cdbfca938
+java:S2696"6Make the enclosing method "static" or remove this set.(Ü—Ë8–á˜ê2J$3a951d9f-0a31-4c56-85d0-3d08d869c773
 x
-java:S2696"6Make the enclosing method "static" or remove this set.(¨¯­h8–á˜ê2J$f91a0078-3be5-43f9-bdda-a99087a7679a
+java:S2696"6Make the enclosing method "static" or remove this set.(¨¯­h8–á˜ê2J$5c4782f1-3cb9-4336-8b9a-51385a7a1862
 ~
-java:S2696"6Make the enclosing method "static" or remove this set.(…¿Ì¿øÿÿÿÿ8™á˜ê2J$a1e284c3-97b7-4e25-911d-aa0e05c5ffa9
+java:S2696"6Make the enclosing method "static" or remove this set.(…¿Ì¿øÿÿÿÿ8™á˜ê2J$147044ed-cd9b-4293-9322-adc2b6728bb2
 y
-java:S2696"6Make the enclosing method "static" or remove this set.(ºèİú8™á˜ê2J$44bcd0c5-01e9-4a8c-888f-b7932c92e5c6
+java:S2696"6Make the enclosing method "static" or remove this set.(ºèİú8™á˜ê2J$6f52fc29-3544-4250-8deb-b74d9cab9bb1
 y
-java:S2696+"6Make the enclosing method "static" or remove this set.(®¢ÿ8–á˜ê2J$55956231-1023-4670-895e-3b6f9dd04d26
+java:S2696*"6Make the enclosing method "static" or remove this set.(®¢ÿ8–á˜ê2J$af52894a-decb-4db7-9bbc-f3cf7f90a519
 ~
-java:S2696-"6Make the enclosing method "static" or remove this set.(€Ş‡§şÿÿÿÿ8—á˜ê2J$912b5861-7f0d-492a-911e-63b535381953
+java:S2696,"6Make the enclosing method "static" or remove this set.(€Ş‡§şÿÿÿÿ8—á˜ê2J$cb8aa975-4b44-4bd1-8c6b-2b2f095685d0
 ~
-java:S2696."6Make the enclosing method "static" or remove this set.(ÁüÙ—üÿÿÿÿ8—á˜ê2J$b57ac1fd-9cdf-4aff-9051-1c06b2e8666b
-~	java:S1250"<This block of commented-out lines of code should be removed.(©³—é8—á˜ê2J$90af2328-de9c-46d8-9ee6-8065fb4bff88
-ƒ	java:S1257"<This block of commented-out lines of code should be removed.(€«Úøÿÿÿÿ8˜á˜ê2J$44715074-c0d6-41e2-9fb5-35c709591b51
+java:S2696-"6Make the enclosing method "static" or remove this set.(ÁüÙ—üÿÿÿÿ8—á˜ê2J$41c554f1-45de-49a4-9b14-11a8b1733fce
+~	java:S125/"<This block of commented-out lines of code should be removed.(©³—é8—á˜ê2J$8c975e07-6067-4dd0-b967-dddb00b69752
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(€«Úøÿÿÿÿ8˜á˜ê2J$527946eb-2ac9-4cf1-ae13-73ccdb699d39
 ~
-java:S2696:"6Make the enclosing method "static" or remove this set.(éàË¸ùÿÿÿÿ8˜á˜ê2J$cf08ecfc-af53-4725-94eb-07f5fdc23bdb
+java:S26968"6Make the enclosing method "static" or remove this set.(éàË¸ùÿÿÿÿ8˜á˜ê2J$5a3bbbf8-426f-4629-83c4-08d2d3f9ec28
 ~
-java:S2696A"6Make the enclosing method "static" or remove this set.(’«È’ùÿÿÿÿ8™á˜ê2J$07658042-7eef-49da-8c1b-c8439579d5b3
+java:S2696?"6Make the enclosing method "static" or remove this set.(’«È’ùÿÿÿÿ8™á˜ê2J$dc244141-6019-450c-b43c-dd827b5090ef
 ~
-java:S2696B"6Make the enclosing method "static" or remove this set.(¸àêƒúÿÿÿÿ8™á˜ê2J$6e599e35-79e9-4cde-a3db-f08e187b21c8
+java:S2696@"6Make the enclosing method "static" or remove this set.(¸àêƒúÿÿÿÿ8™á˜ê2J$1f1cee20-eea5-4a3a-ac2a-f2d304b5bbe0
 ~
-java:S2696G"6Make the enclosing method "static" or remove this set.(ŒÓú¡ÿÿÿÿÿ8™á˜ê2J$d7832d3f-336f-4aab-af0d-032477e5c20a
-~	java:S125F"<This block of commented-out lines of code should be removed.(Èà´Ë8™á˜ê2J$c5c27c8a-4149-4d6d-a134-98214e8357de
+java:S2696E"6Make the enclosing method "static" or remove this set.(ŒÓú¡ÿÿÿÿÿ8™á˜ê2J$303e3528-00fd-4607-99df-fd049daec505
+~	java:S125D"<This block of commented-out lines of code should be removed.(Èà´Ë8™á˜ê2J$919484c6-a719-4af9-a62f-db2aa522474d
 y
-java:S2696I"6Make the enclosing method "static" or remove this set.(¶«›‘8™á˜ê2J$95f25c0b-71e8-404a-9897-4471657cff61
+java:S2696G"6Make the enclosing method "static" or remove this set.(¶«›‘8™á˜ê2J$949ed2af-e812-44ef-b9b4-b9579f48a3d6
 ~
-java:S2696J"6Make the enclosing method "static" or remove this set.(ùûêşÿÿÿÿ8™á˜ê2J$fe13a50f-7eac-4585-a605-3f54da6c3afe
+java:S2696H"6Make the enclosing method "static" or remove this set.(ùûêşÿÿÿÿ8™á˜ê2J$98f7d2d6-678a-479e-9614-1cf2a382353f
 ~
-java:S2696M"6Make the enclosing method "static" or remove this set.(ï¨²²ùÿÿÿÿ8™á˜ê2J$3bf2c96a-b0b1-4d6b-9da6-c86c2ca2c107
+java:S2696K"6Make the enclosing method "static" or remove this set.(ï¨²²ùÿÿÿÿ8™á˜ê2J$abdd8e13-785c-41ae-9d5b-bd4ddac19c30
 ~
-java:S2696O"6Make the enclosing method "static" or remove this set.(Œ–Äûÿÿÿÿ8šá˜ê2J$bec0e316-f463-4371-a014-0959f1892a9e
+java:S2696M"6Make the enclosing method "static" or remove this set.(Œ–Äûÿÿÿÿ8šá˜ê2J$4ffc7794-7034-45c1-a3a9-28fdd45f69ee
 y
-java:S2696P"6Make the enclosing method "static" or remove this set.(ºèİú8šá˜ê2J$f4253184-6602-4d38-87d4-00ad3e835046
-~	java:S125S"<This block of commented-out lines of code should be removed.(¦ˆÄÜ8™á˜ê2J$e3d197d9-fc71-40c9-960d-59570f464ba6
-ƒ	java:S125["<This block of commented-out lines of code should be removed.(Êİî¬şÿÿÿÿ8šá˜ê2J$8d86b6c5-98b4-4d1a-882f-9bec82ccd594
+java:S2696N"6Make the enclosing method "static" or remove this set.(ºèİú8šá˜ê2J$a9e22fda-f884-458b-811d-87ca1e74a9fc
+~	java:S125Q"<This block of commented-out lines of code should be removed.(¦ˆÄÜ8™á˜ê2J$bb9e8f2c-a6ab-41ae-982e-d791ded576ac
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(Êİî¬şÿÿÿÿ8šá˜ê2J$4a16aff1-caca-4b24-b0af-95ce6b28bed2
 ~
-java:S2696`"6Make the enclosing method "static" or remove this set.(¢®ëùÿÿÿÿ8šá˜ê2J$dd91c324-4491-409c-b2fb-b82c8bc03622
+java:S2696^"6Make the enclosing method "static" or remove this set.(¢®ëùÿÿÿÿ8šá˜ê2J$c9b8d560-0319-47d8-8f97-57ddddecdae6
 ~
-java:S2696a"6Make the enclosing method "static" or remove this set.(”¤§Òúÿÿÿÿ8šá˜ê2J$81912e2f-f1b2-423b-8ce8-c979eee37051
+java:S2696_"6Make the enclosing method "static" or remove this set.(”¤§Òúÿÿÿÿ8šá˜ê2J$9c77ac36-fe84-4e2f-834f-01aa46e91709
 ~
-java:S2696c"6Make the enclosing method "static" or remove this set.(Œ–Äûÿÿÿÿ8šá˜ê2J$08fc0009-3154-4101-a723-602af6876037
+java:S2696a"6Make the enclosing method "static" or remove this set.(Œ–Äûÿÿÿÿ8šá˜ê2J$e012e907-af2c-43e4-a93d-384f00a15cb5
 y
-java:S2696d"6Make the enclosing method "static" or remove this set.(ºèİú8šá˜ê2J$043f617c-4464-4952-83e3-9bfcb5933fe3
-ƒ	java:S125f"<This block of commented-out lines of code should be removed.(Ù‰Š•øÿÿÿÿ8šá˜ê2J$9bd4971f-8d54-45a2-bf71-e1ee75d10058
+java:S2696b"6Make the enclosing method "static" or remove this set.(ºèİú8šá˜ê2J$ed0e1691-fc64-4e95-a714-6cd35432f2ac
+ƒ	java:S125d"<This block of commented-out lines of code should be removed.(Ù‰Š•øÿÿÿÿ8šá˜ê2J$79440dee-144d-416c-b83b-8798a1dc6133
 y
-java:S2696m"6Make the enclosing method "static" or remove this set.(ó‚ü¿8Õ°ê2J$32bd2d66-d3e0-4869-a383-f238032837c0
-ƒ	java:S125k"<This block of commented-out lines of code should be removed.(Õ÷‡Úùÿÿÿÿ8šá˜ê2J$cd947d73-df28-41ff-afe7-abc1dc23535b
+java:S2696k"6Make the enclosing method "static" or remove this set.(ó‚ü¿8Õ°ê2J$ef135829-1049-47de-a059-b23250bdec8d
+ƒ	java:S125i"<This block of commented-out lines of code should be removed.(Õ÷‡Úùÿÿÿÿ8šá˜ê2J$609f9135-6ead-456c-830c-22bec62100b1
 y
-java:S2696n"6Make the enclosing method "static" or remove this set.(ŠÂêÓ8Õ°ê2J$d760d804-867a-44b4-92b4-b0118c929ce0
-ƒ	java:S125o"<This block of commented-out lines of code should be removed.(şúçÏùÿÿÿÿ8šá˜ê2J$0904630d-64f9-49e2-964e-803d8b997782
-~	java:S125v"<This block of commented-out lines of code should be removed.(­¦…±8›á˜ê2J$4da5b3df-6c9a-418f-9a1a-7c8f48acba94
-„	java:S125„"<This block of commented-out lines of code should be removed.(„›ïüÿÿÿÿ8œá˜ê2J$e8160ec9-0f6d-49f2-ba37-d07f339907dc
+java:S2696l"6Make the enclosing method "static" or remove this set.(ŠÂêÓ8Õ°ê2J$a99cec9f-8c91-4b1a-a052-df84a000ced7
+ƒ	java:S125m"<This block of commented-out lines of code should be removed.(şúçÏùÿÿÿÿ8šá˜ê2J$0b6df1e6-31d1-4d23-a34d-ecf9919854e8
+~	java:S125t"<This block of commented-out lines of code should be removed.(­¦…±8›á˜ê2J$efee06fd-ddac-432e-b91a-bed25f48cf06
+„	java:S125"<This block of commented-out lines of code should be removed.(„›ïüÿÿÿÿ8œá˜ê2J$2943788e-d22a-49f3-8649-e8d4d16af5ec
