@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day08.k번째접미어;
+package 삼성전자dx특강.day08.k번째접미어;
 
 import java.io.BufferedReader;
 import java.io.IOException;
