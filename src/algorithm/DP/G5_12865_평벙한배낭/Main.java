@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.G5_12865_평벙한배낭;
+package algorithm.DP.G5_12865_평벙한배낭;
 
 import java.io.BufferedReader;
 import java.io.IOException;

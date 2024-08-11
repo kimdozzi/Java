@@ -1,4 +1,4 @@
-package algorithm.simulation.G5_17070_파이프옮기기1;
+package algorithm.Simulation.G5_17070_파이프옮기기1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

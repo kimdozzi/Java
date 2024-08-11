@@ -1,4 +1,4 @@
-package algorithm.permutation;
+package algorithm.Exhaustive_Search.permutation;
 
 import java.util.Arrays;
 import java.util.Scanner;

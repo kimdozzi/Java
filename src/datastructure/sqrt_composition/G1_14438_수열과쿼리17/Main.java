@@ -1,4 +1,4 @@
-package algorithm.제곱근분할법.G1_14438_수열과쿼리17;
+package datastructure.sqrt_composition.G1_14438_수열과쿼리17;
 
 import java.io.BufferedReader;
 import java.io.IOException;

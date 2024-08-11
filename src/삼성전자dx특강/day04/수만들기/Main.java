@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day04.수만들기;
+package 삼성전자dx특강.day04.수만들기;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.G3_7579_앱;
+package algorithm.DP.G3_7579_앱;
 
 import java.io.BufferedReader;
 import java.io.IOException;

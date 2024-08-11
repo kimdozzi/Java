@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.S3_9095_123더하기;
+package algorithm.DP.S3_9095_123더하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

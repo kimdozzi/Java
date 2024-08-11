@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day02.중위순회;
+package 삼성전자dx특강.day02.중위순회;
 
 import java.util.ArrayList;
 import java.util.List;

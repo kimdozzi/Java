@@ -1,13 +1,0 @@
-
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8£ê”•‘2J$6ec041df-9512-456d-ba6f-8bda32037621
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8£ê”•‘2J$241b3f05-fa60-4aff-9750-36bb43f07755
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆıÿÿÿÿ8¤ê”•‘2J$e0b05044-e31b-4b89-8bb4-b831a4828ea2
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚…½õ8¤ê”•‘2J$fae2e03c-9cf9-41b0-861e-1dcda0fe4041
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù—±¶şÿÿÿÿ8ˆ¼•‘2J$9ed5a88b-407b-47f0-944e-40175fc1bf26
-r
-java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8ıê”•‘2J$5c894256-0a9b-43e3-8254-b9dbfd4ccf24
-m	java:S106-"+Replace this use of System.out by a logger.(²äƒª8‰ë”•‘2J$f871f52e-8359-4774-abd1-eaa228e0915b
-œ
-java:S12109"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(½á±Ó8‰ë”•‘2J$37c40e4b-f642-4a81-a5bb-640ce882f87f
-d
-java:S16592"!Declare "cnt" on a separate line.(’Àğá8‰ë”•‘2J$1e6dc5ef-8288-491e-a7c7-4513b509e748

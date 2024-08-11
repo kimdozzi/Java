@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day03.창용마을무리의개수;
+package 삼성전자dx특강.day03.창용마을무리의개수;
 
 import java.util.HashSet;
 import java.util.Scanner;

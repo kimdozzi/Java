@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day01.메모장;
+package 삼성전자dx특강.day01.메모장;
 import java.util.LinkedList;
 
 class UserSolution {

@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day05.그래도수명이절반이되어서는;
+package 삼성전자dx특강.day05.그래도수명이절반이되어서는;
 
 import java.io.BufferedReader;
 import java.io.IOException;

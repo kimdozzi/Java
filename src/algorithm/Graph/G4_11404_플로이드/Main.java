@@ -1,4 +1,4 @@
-package algorithm.graph.G4_11404_플로이드;
+package algorithm.Graph.G4_11404_플로이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

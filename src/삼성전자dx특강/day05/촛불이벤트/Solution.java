@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day05.촛불이벤트;
+package 삼성전자dx특강.day05.촛불이벤트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

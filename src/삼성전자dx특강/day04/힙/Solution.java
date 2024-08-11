@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day04.힙;
+package 삼성전자dx특강.day04.힙;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.S1_15992_123더하기9;
+package algorithm.DP.S1_15992_123더하기9;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.코드배틀;
+package 삼성전자dx특강.코드배틀;
 
 import java.util.Scanner;
 import java.util.Random;

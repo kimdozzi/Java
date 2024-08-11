@@ -1,22 +1,0 @@
-
-˜	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8›éÁŞ2J$5f65b072-781d-4495-bde3-2c3ea063118c
-˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( şÕòúÿÿÿÿ8œéÁŞ2J$2008c5d0-3974-406a-a06e-005bd562a022
-˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8œéÁŞ2J$f7309b42-c70a-4799-a0d0-72f789f4abca
-˜	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8œéÁŞ2J$3fe2e5da-0e9c-4474-9de6-d3a6b90ddc6a
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êéˆÍ8¦ÜÄŞ2J$ec5f9adc-fdb7-4fcb-8547-30a1c0783f8e
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éÿææûÿÿÿÿ8¨ÜÄŞ2J$593fa9e0-94c2-40d3-8248-3755cc26127b
-
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¾Åæ˜ûÿÿÿÿ8©éÁŞ2J$5a851065-e289-4a60-9062-298f2918887b
-ˆ
-java:S1124
-"EReorder the modifiers to comply with the Java Language Specification.(¯ÊãŞ8©éÁŞ2J$749ac4b2-42b1-4368-9cd6-89f725ca99b8
-
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šì›¹øÿÿÿÿ8©éÁŞ2J$fea6f112-c034-415b-8900-cc701b0102b2
-
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢½û†úÿÿÿÿ8©éÁŞ2J$4bd217ce-49d9-4935-9d19-be3f49192a86
-
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8©éÁŞ2J$0853910e-61e3-45fa-a033-c88fde4749c2
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¥Àıÿÿÿÿ8«éÁŞ2J$8c6c06b6-4ddd-4b7f-8250-c9f2f388648e
-j
-java:S1659W""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8»éÁŞ2J$02ee7edb-0dbe-4cd8-a132-587b0c8677a6
-r	java:S106e"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8ÁéÁŞ2J$8f9d38c8-1bea-4b2a-9885-e90d2da0b08a

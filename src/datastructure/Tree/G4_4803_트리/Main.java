@@ -1,4 +1,4 @@
-package algorithm.tree.G4_4803_트리;
+package datastructure.Tree.G4_4803_트리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

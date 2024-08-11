@@ -1,4 +1,4 @@
-package algorithm.graph.G4_14226_이모티콘;
+package algorithm.Graph.G4_14226_이모티콘;
 
 import java.io.BufferedReader;
 import java.io.IOException;

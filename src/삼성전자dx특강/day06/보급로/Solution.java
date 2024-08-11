@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day06.보급로;
+package 삼성전자dx특강.day06.보급로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

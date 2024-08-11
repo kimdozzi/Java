@@ -1,25 +1,0 @@
-
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÆÆÎøÿÿÿÿ8ªÈ¶ò2J$ec050d11-8fb6-4013-a939-b5e14a6dd207
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÍ¡£8ªÈ¶ò2J$12ca1b16-ebd6-4878-993c-86de437ddafd
-”
-java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$f4d378e0-6890-4ae1-89c5-646a40cc28f1
-”
-java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$995e0ca4-ac2e-45b9-9c2c-9a4851214b13
-”
-java:S3008	"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©æ©˜ÿÿÿÿÿ8®È¶ò2J$d9f2400e-2117-4a70-aaf8-17cb0b2b985b
-†
-java:S1659	">Declare "M" and all following declarations on a separate line.(©æ©˜ÿÿÿÿÿ8¯È¶ò2J$77cad731-48a4-43b6-b38a-79d62c6be5ec
-˜
-java:S1450	"PRemove the "L" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8¯È¶ò2J$b2522e90-f97a-44fc-acf0-434c6b303de6
-˜
-java:S1450	"PRemove the "M" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8°È¶ò2J$7e497a8f-82c1-44e4-ba9d-5536a3cf87aa
-˜
-java:S1450	"PRemove the "N" field and declare it as a local variable in the relevant methods.(©æ©˜ÿÿÿÿÿ8°È¶ò2J$08cc0b55-419f-4ae1-883d-e44907a83fa3
-r
-java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8¶È¶ò2J$64f98ba5-aa8c-43b6-a1a0-3d4eecfc3a2d
-”
-java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒÑíª8ï¿ò2J$7ba76341-4502-431a-96ea-33884b4439bf
-m	java:S1062"+Replace this use of System.out by a logger.(ƒÑíª8½È¶ò2J$3193886f-cb9f-47d1-a84c-609f500202e2
-”
-java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(¦Ûè«8–¥¸ò2J$a962d169-d6e9-4393-8c42-f254b7986f81
-m	java:S1064"+Replace this use of System.out by a logger.(¦Ûè«8½È¶ò2J$89864ea8-4d28-4622-b0f2-ce11b09910dc

@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day02.Directory;
+package 삼성전자dx특강.day02.Directory;
 
 import java.util.*;
 

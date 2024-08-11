@@ -1,4 +1,4 @@
-package algorithm.graph.G4_11657_타임머신;
+package algorithm.Graph.G4_11657_타임머신;
 
 import java.io.BufferedReader;
 import java.io.IOException;

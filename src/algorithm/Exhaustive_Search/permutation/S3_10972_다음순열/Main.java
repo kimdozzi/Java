@@ -1,4 +1,4 @@
-package algorithm.permutation.S3_10972_다음순열;
+package algorithm.Exhaustive_Search.permutation.S3_10972_다음순열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

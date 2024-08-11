@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.S2_1535_안녕;
+package algorithm.DP.S2_1535_안녕;
 
 import java.io.BufferedReader;
 import java.io.IOException;

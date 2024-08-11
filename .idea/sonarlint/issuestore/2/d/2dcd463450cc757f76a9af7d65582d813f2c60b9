@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÕöùÿÿÿÿ
+g
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ
+@
+java:S1144V"*Remove this unused private "print" method.(Ïğœ
+E	java:S106)"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(ÆÀûı
+Q	java:S125J"<This block of commented-out lines of code should be removed.(âÚ«
+E	java:S106Y"+Replace this use of System.out by a logger.(©Šùÿÿÿÿ
+E	java:S106["+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+o
+java:S1210k"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(®ÒìÁ

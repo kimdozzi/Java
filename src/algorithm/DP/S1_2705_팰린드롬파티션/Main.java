@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.S1_2705_팰린드롬파티션;
+package algorithm.DP.S1_2705_팰린드롬파티션;
 
 import java.util.Scanner;
 

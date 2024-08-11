@@ -1,4 +1,4 @@
-package algorithm.graph.G4_1753_최단경로;
+package algorithm.Graph.G4_1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

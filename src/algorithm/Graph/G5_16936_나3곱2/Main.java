@@ -1,4 +1,4 @@
-package algorithm.graph.G5_16936_나3곱2;
+package algorithm.Graph.G5_16936_나3곱2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

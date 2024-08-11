@@ -1,4 +1,4 @@
-package algorithm.bruteforce.S2_16924_십자가찾기;
+package algorithm.Exhaustive_Search.bruteforce.S2_16924_십자가찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

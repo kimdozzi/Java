@@ -1,19 +1,0 @@
-
-v
-java:S11217".Extract the assignment out of this expression.(Èÿ×¬ûÿÿÿÿ8Í¯€í2J$d9650140-1246-4759-8223-b474c15add5e
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÆÆÎøÿÿÿÿ8Î¯€í2J$38aa34f9-30d8-4cbe-af63-7142a4e9bd00
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÒÂòúÿÿÿÿ8Î¯€í2J$8b0adf76-96ac-47a5-8cf1-0593f291b4c0
-
-java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8Ñ¯€í2J$a9088ae6-f35b-4709-8433-12078d717cdf
-
-java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8Ñ¯€í2J$ecab7d39-f888-495e-b49a-371a6b49450f
-b
-java:S1659	"Declare "M" on a separate line.(ğ ¬ï8Ò¯€í2J$700d2dc1-a505-47c0-b9ea-73026fc707d6
-´
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8Õ¯€í2J$740364e2-83ec-4df1-bd71-23ba3cb89863
-r
-java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8Õ¯€í2J$eb3abd1a-8c14-4055-86c5-c5d9ba50a9ae
-™
-java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(˜ÖÌûÿÿÿÿ8è›í2J$2aa3f991-f456-4fc1-85bf-90e9858b1991
-r	java:S106."+Replace this use of System.out by a logger.(˜ÖÌûÿÿÿÿ8Ù¯€í2J$449ad74b-34c6-4594-9e8e-7e0154bbcdfc
-ƒ	java:S125/"<This block of commented-out lines of code should be removed.(ış…×şÿÿÿÿ8òí2J$f6e2dd35-44c6-4511-ac74-bb46e6efd25e

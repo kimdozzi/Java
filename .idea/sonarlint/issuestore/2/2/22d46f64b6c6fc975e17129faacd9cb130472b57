@@ -1,0 +1,14 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ´ª»üÿÿÿÿ8š¢µ’‘2J$bbcc222b-b760-4351-a360-acea4db81367
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁüŽ8š¢µ’‘2J$45f89a4c-a9da-45e9-b8b6-57886abe4f45
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ð«¬ûÿÿÿÿ8›¢µ’‘2J$ecf467ab-df3b-4851-8850-146586ec2824
+r
+java:S1197"*Move the array designators [] to the type.(ùï¾Žÿÿÿÿÿ8¢¢µ’‘2J$61f836a8-6050-497b-b4ba-f480ceec470a
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8§¢µ’‘2J$e03c621d-d056-459d-b657-343570064b28
+i	java:S131""Add a default case to this switch.(¸ìù«üÿÿÿÿ8§¢µ’‘2J$71d0fc98-203e-4a9c-b14d-72f68b1a42ef
+m	java:S106%"+Replace this use of System.out by a logger.(Ô˜¦ô8©¢µ’‘2J$41e0e4f5-c9d7-4ca1-b4d5-dd5b95cd3504
+m	java:S106&"+Replace this use of System.out by a logger.(Àô²Å8©¢µ’‘2J$3f71d610-ce94-47dd-aa40-1c449ed64749
+œ
+java:S12102"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¾ÏŠÜ8ÒÖ¸’‘2J$f7b68053-8451-4871-8571-6baabf6cca6e

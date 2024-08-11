@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day04.수만들기;
+package 삼성전자dx특강.day04.수만들기;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

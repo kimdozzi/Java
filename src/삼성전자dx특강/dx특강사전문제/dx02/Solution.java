@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.dx특강사전문제.dx02;
+package 삼성전자dx특강.dx특강사전문제.dx02;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

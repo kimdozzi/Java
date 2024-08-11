@@ -1,0 +1,18 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¥€Ú8Ò¡ò³“2J$c9abc237-73a9-488f-a0dc-f315d0e8445f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ñÔ€8Ó¡ò³“2J$72d51c6d-d571-48ab-b6e8-b854c549332a
+m
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$16c315af-f6e2-4dd0-8490-8b1e44360f37
+m
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$1d1861b6-4800-4629-bca3-02cda516974a
+m
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$40344d98-a743-4e07-ae97-8dba018c4651
+~	java:S125("<This block of commented-out lines of code should be removed.(©”–ø8Ú¡ò³“2J$fa31e452-f559-49bb-9263-3330dbac231a
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(Öó¹þÿÿÿÿ8Ú¡ò³“2J$257a700a-9077-45c1-9824-a17ef07e02eb
+|
+java:S2864A"4Iterate over the "entrySet" instead of the "keySet".(©–²¡úÿÿÿÿ8Û¡ò³“2J$2a146ff8-e2c0-478e-8fff-9356b9706ef3
+|
+java:S2864U"4Iterate over the "entrySet" instead of the "keySet".(ñÿ®Ùùÿÿÿÿ8Ý¡ò³“2J$060a13fb-df4f-4123-a416-7dc4205818b3
+~	java:S125_"<This block of commented-out lines of code should be removed.(ÇÝ«²8Ëã€´“2J$8f428f1c-570a-4ee9-b5d3-71cca3cc4259
+œ
+java:S1210m"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹Ö8Ý¡ò³“2J$9c003d01-1757-4e33-b31b-98e5dcece230

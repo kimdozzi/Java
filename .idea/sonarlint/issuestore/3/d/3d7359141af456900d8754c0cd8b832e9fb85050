@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Þã ûÿÿÿÿJ$048f3058-5be5-4d37-a30a-d43417297d33
+ˆ
+java:S30087"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð ¬ïJ$161a43a1-9ffe-430f-940f-0efbcfff26a2
+ˆ
+java:S30087"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð ¬ïJ$f85839ea-e187-4457-a395-7d4f9be965e5
+[
+java:S16597"Declare "M" on a separate line.(ð ¬ïJ$24390eef-18c2-4e63-bf10-f4fd34bcbd07
+`
+java:S16598"Declare "g" on a separate line.(ÆÈ†¡ûÿÿÿÿJ$71138953-1531-4a2f-b06d-a26220eee9d5
+f	java:S106h"+Replace this use of System.out by a logger.(Àô²ÅJ$62917bd5-4ea2-4690-a300-cbc318f2729a
+Ž
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ñ×ÚíJ$5864a791-9785-4f25-9a82-d189986c13a9

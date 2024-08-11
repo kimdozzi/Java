@@ -1,4 +1,4 @@
-package algorithm.dynamicProgramming.G5_2293_동전1;
+package algorithm.DP.G5_2293_동전1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

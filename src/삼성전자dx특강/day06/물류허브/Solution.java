@@ -1,4 +1,4 @@
-package algorithm.삼성전자dx특강.day06.물류허브;
+package 삼성전자dx특강.day06.물류허브;
 
 import java.util.Scanner;
 
