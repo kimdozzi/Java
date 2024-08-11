@@ -90,16 +90,22 @@ public class Main {
         }
 
         // 기본값 업데이트
-        public void updateSum(int node, int start, int end, int idx, long diff) {
+        public void update(int node, int start, int end, int idx, long diff) {
             if (idx < start || end < idx) {
                 return;
             }
 
             sumTree[node] += diff;
 
-            if (start != end) {
-                updateSum(node * 2, start, (start + end) / 2, idx, diff);
-                updateSum(node * 2 + 1, (start + end) / 2 + 1, end, idx, diff);
+            if(start == end) {
+                minTree[node] = sumTree[node];
+                maxTree[node] = sumTree[node];
+            } else {
+                update(node * 2, start, (start + end) / 2, idx, diff);
+                update(node * 2 + 1, (start + end) / 2 + 1, end, idx, diff);
+
+                minTree[node] = Math.min(minTree[node*2], minTree[node*2+1]);
+                maxTree[node] = Math.max(maxTree[node*2], maxTree[node*2+1]);
             }
         }
 
@@ -149,5 +155,4 @@ public class Main {
             );
         }
     }
-
 }
