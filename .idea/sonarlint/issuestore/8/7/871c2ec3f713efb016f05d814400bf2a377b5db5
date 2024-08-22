@@ -1,24 +1,24 @@
 
-˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8äª·¯“2J$d1a9b749-0230-412c-a473-062205485bae
-˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8åª·¯“2J$c7757434-da4d-4bba-ab3d-ede87aa9b5c9
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ñÔ€J$f71e94cd-4dd6-4484-a08e-cbdc250cccdb
+˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8äª·¯“2J$c0ce64ce-ea63-4ae3-a5a2-a0a718787079
+˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷úŒÅúÿÿÿÿ8åª·¯“2J$c0195ca0-6cd5-44a1-ab56-483706f323fd
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ñÔ€J$c243d052-1693-4e59-93df-3c53f147be0e
 ‡
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥çÉ`8ìª·¯“2J$fcdaa8f2-ad4c-4614-b03a-bf6a6f504371
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥çÉ`8ìª·¯“2J$d1fbc1c1-8eed-42db-8801-2d09e565545a
 ˆ
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(İà˜8ìª·¯“2J$28f3ba15-eabb-4fe4-aa38-2cf8889cf132
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(İà˜8ìª·¯“2J$00965615-fc86-4c87-a17c-53ee80522390
 ˆ
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‚âòÖ8ìª·¯“2J$992976d2-f3cf-4ad3-9ed3-b85990f0fd04
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‚âòÖ8ìª·¯“2J$b62061ec-c5bc-4e59-af7c-346bfe4d4b5e
 ‡
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÃË‡8ìª·¯“2J$144fe495-c096-4905-b781-53a6e773c3bc
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÃË‡8ìª·¯“2J$6dabbe3e-423c-4e89-8ce0-8e8ea9bc1567
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8ìª·¯“2J$30693402-6c24-4edd-acaa-325086e0a5c2
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(…¤ºùÿÿÿÿ8ìª·¯“2J$2bda31fb-6369-4884-a45d-a0c353a1ca89
 …
-java:S1659"BDeclare "eCity" and all following declarations on a separate line.(‚©äà8ïª·¯“2J$d1c3427d-ec76-4579-a88e-e66b4b0a7505
+java:S1659"BDeclare "eCity" and all following declarations on a separate line.(‚©äà8ïª·¯“2J$ec7465d6-07d1-4d0b-9f7e-a30ac908ee53
 ˆ
-java:S1659"@Declare "ans" and all following declarations on a separate line.(¨İ¾±úÿÿÿÿ8ïª·¯“2J$47a66b51-21fe-44c2-a42e-2783e86eda64
+java:S1659"@Declare "ans" and all following declarations on a separate line.(¨İ¾±úÿÿÿÿ8ïª·¯“2J$951be679-3914-40b3-9c39-2626bc81725b
 ´
-java:S1130="lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8òª·¯“2J$f29f5a91-f020-41f2-ab6a-b31e3dbff79d
+java:S1130="lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8òª·¯“2J$ef486f67-c18c-4cca-a0c9-e1c4edbe375c
 j
-java:S1659>""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8òª·¯“2J$51e61e1e-61e0-40cd-b30f-09dc0527d7b9
-ƒ	java:S125@"<This block of commented-out lines of code should be removed.(ù†ôúÿÿÿÿ8óª·¯“2J$9889e533-2b0f-4f75-b2b6-46092588be12
-r	java:S106I"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8şª·¯“2J$9f47c6f8-0edd-4710-b6e7-49e2e6eed3e5
+java:S1659>""Declare "MARK" on a separate line.(÷úŒÅúÿÿÿÿ8òª·¯“2J$4b90fff6-abac-4695-b1fd-21f07bcd7006
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(ù†ôúÿÿÿÿ8óª·¯“2J$252fd5ad-15be-41fb-b5c9-2fa7190daac5
+r	java:S106I"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8şª·¯“2J$51c568f8-2df5-48fa-a6ae-556b59d8be56

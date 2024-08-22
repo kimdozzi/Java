@@ -1,10 +1,7 @@
 package datastructure.Trie;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 class Trie {
@@ -114,6 +111,7 @@ public class Main {
         int index = suffixArray[k - 1];
 
     }
+
     // 문자열의 모든 접미어의 시작 인덱스를 저장하는 배열 생성
     private static Integer[] createSuffixArray(String text) {
         int length = text.length();

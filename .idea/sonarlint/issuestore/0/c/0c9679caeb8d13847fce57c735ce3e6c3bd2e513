@@ -1,0 +1,11 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›–‚ϋÿÿÿÿ8πεΧ•2J$484ca432-b75f-44a2-98bf-56a49f96fb53
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ« Γϊÿÿÿÿ8τεΧ•2J$00f3f789-4e8d-4e48-a739-8715379edb60
+”
+java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ« Γϊÿÿÿÿ8τεΧ•2J$1049b405-7be9-4cc7-a3d9-e92b8e7f46f5
+g
+java:S1659"Declare "K" on a separate line.(Τ« Γϊÿÿÿÿ8τεΧ•2J$924487c0-2b57-49c4-98bc-d64d1e7c671e
+m	java:S106"+Replace this use of System.out by a logger.(ϋΔΟ8ώεΧ•2J$03123b92-16be-40fd-a1da-9a9de50fb723
+q
+java:S5413G")Verify that "remove()" is used correctly.(δύϋζÿÿÿÿÿ8ω΅­Χ•2J$b08dcec4-6f69-4b0e-8995-0eec361a515b

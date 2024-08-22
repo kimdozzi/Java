@@ -1,0 +1,29 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ğ•×ÿÿÿÿÿ8Šˆ¯³”2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾ƒ‚ÿÿÿÿÿ8‹ˆ¯³”2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾ƒ‚ÿÿÿÿÿ8‹ˆ¯³”2
+m	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Û©8‹ˆ¯³”2
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¼œÂúÿÿÿÿ8‹ˆ¯³”2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‰˜¬ùÿÿÿÿJ$62660571-c196-4023-9069-bb8856b0c925
+b
+java:S2095""EUse try-with-resources or close this "Scanner" in a "finally" clause.(»â8Şã’Ô•2
+b
+java:S20952"EUse try-with-resources or close this "Scanner" in a "finally" clause.(İÇÇÓ8ßã’Ô•2
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(°ğ•×ÿÿÿÿÿ8ßã’Ô•2
+g
+java:S2095#"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¥„§úÿÿÿÿÿ8ßã’Ô•2
+g
+java:S2095/"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ŞüîØşÿÿÿÿ8ßã’Ô•2
+b
+java:S20950"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ûÖ¹Ë8àã’Ô•2
+`
+java:S1659"CDeclare "result" and all following declarations on a separate line.(«÷§8“ˆ¯³”2
+A
+java:S1659"Declare "M" on a separate line.(Ï¾ƒ‚ÿÿÿÿÿ8“ˆ¯³”2
+a
+java:S1659"DDeclare "mTypeID" and all following declarations on a separate line.(é­8“ˆ¯³”2
+=
+java:S1659" Declare "mB" on a separate line.(·Ìâ‘8“ˆ¯³”2
+]	java:S125H"<This block of commented-out lines of code should be removed.(ù†ôúÿÿÿÿ8ˆ¯³”2
+L	java:S106P"+Replace this use of System.out by a logger.(¨íÍ“ùÿÿÿÿ8Ÿˆ¯³”2

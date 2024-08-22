@@ -1,14 +1,14 @@
 
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÕöùÿÿÿÿ
-g
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ
-@
-java:S1144V"*Remove this unused private "print" method.(Ïğœ
-E	java:S106)"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ
-@	java:S106,"+Replace this use of System.out by a logger.(ÆÀûı
-Q	java:S125J"<This block of commented-out lines of code should be removed.(âÚ«
-E	java:S106Y"+Replace this use of System.out by a logger.(©Šùÿÿÿÿ
-E	java:S106["+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
-o
-java:S1210k"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(®ÒìÁ
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿJ$c688c3a4-ba04-4ca9-bab5-7ca91fb7cc12
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÕöùÿÿÿÿJ$952b8c53-8f1c-4864-9168-d27b81f80996
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛîèõşÿÿÿÿJ$af3a2a02-906b-4e00-96ec-af67fc7b1722
+f
+java:S1144V"*Remove this unused private "print" method.(ÏğœJ$39fd7669-021e-40c7-a69a-1d8486c3f5a2
+k	java:S106)"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿJ$b862310e-085b-481d-bbb4-d59fcbb8034b
+f	java:S106,"+Replace this use of System.out by a logger.(ÆÀûıJ$bc066baa-c4ea-4700-a6a9-03adcd1e2b86
+w	java:S125J"<This block of commented-out lines of code should be removed.(âÚ«J$e257ab75-5542-4676-986b-cf9e10eb5b3a
+k	java:S106Y"+Replace this use of System.out by a logger.(©ŠùÿÿÿÿJ$66ad355f-bea6-4f97-bd1c-a5dd13ff7eb2
+k	java:S106["+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$2118c1d6-61d0-47a1-a4af-ccdb74196730
+•
+java:S1210k"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(®ÒìÁJ$cdbc50c8-aa7e-4c9c-9701-54e463e68f23

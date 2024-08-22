@@ -1,18 +1,18 @@
 
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¥€Ú8Ò¡ò³“2J$c9abc237-73a9-488f-a0dc-f315d0e8445f
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ñÔ€8Ó¡ò³“2J$72d51c6d-d571-48ab-b6e8-b854c549332a
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¥€Ú8Ò¡ò³“2J$cd2d5da0-eaca-4744-a31e-7aae64b6f26b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ñÔ€8Ó¡ò³“2J$40e78ef9-738e-469f-9063-33dc37b023c3
 m
-java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$16c315af-f6e2-4dd0-8490-8b1e44360f37
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$040b08d3-d0d3-4b70-a28a-e24aba58ff77
 m
-java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$1d1861b6-4800-4629-bca3-02cda516974a
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$bc33b988-4cb5-489a-9301-30878588d4d3
 m
-java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$40344d98-a743-4e07-ae97-8dba018c4651
-~	java:S125("<This block of commented-out lines of code should be removed.(©”–ø8Ú¡ò³“2J$fa31e452-f559-49bb-9263-3330dbac231a
-ƒ	java:S125-"<This block of commented-out lines of code should be removed.(Öó¹þÿÿÿÿ8Ú¡ò³“2J$257a700a-9077-45c1-9824-a17ef07e02eb
+java:S1197"*Move the array designators [] to the type.(‘¥€Ú8Ø¡ò³“2J$ffcca221-42d9-4bbd-85ac-f4627d9d2d1a
+~	java:S125("<This block of commented-out lines of code should be removed.(©”–ø8Ú¡ò³“2J$2e143c72-795a-4ffd-b2fa-6745fdfed921
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(Öó¹þÿÿÿÿ8Ú¡ò³“2J$5c9efcd5-5d41-4334-b77e-5b363972f8bc
 |
-java:S2864A"4Iterate over the "entrySet" instead of the "keySet".(©–²¡úÿÿÿÿ8Û¡ò³“2J$2a146ff8-e2c0-478e-8fff-9356b9706ef3
+java:S2864A"4Iterate over the "entrySet" instead of the "keySet".(©–²¡úÿÿÿÿ8Û¡ò³“2J$fa316ebd-75df-4dcd-9746-08a5b7b42549
 |
-java:S2864U"4Iterate over the "entrySet" instead of the "keySet".(ñÿ®Ùùÿÿÿÿ8Ý¡ò³“2J$060a13fb-df4f-4123-a416-7dc4205818b3
-~	java:S125_"<This block of commented-out lines of code should be removed.(ÇÝ«²8Ëã€´“2J$8f428f1c-570a-4ee9-b5d3-71cca3cc4259
+java:S2864U"4Iterate over the "entrySet" instead of the "keySet".(ñÿ®Ùùÿÿÿÿ8Ý¡ò³“2J$71539848-ee10-4075-9528-7ef56c65b206
+~	java:S125_"<This block of commented-out lines of code should be removed.(ÇÝ«²8Ëã€´“2J$33460d2d-c3c6-49fa-a133-3787808420d5
 œ
-java:S1210m"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹Ö8Ý¡ò³“2J$9c003d01-1757-4e33-b31b-98e5dcece230
+java:S1210m"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹Ö8Ý¡ò³“2J$9edaf8da-4c8e-4138-ae2b-90869e6c93d1

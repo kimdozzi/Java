@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¯ÇÃøÿÿÿÿJ$f4f8b941-bcd9-4585-924d-de8d4d021e4e
+ˆ
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ïJ$78699eff-d992-443b-a9eb-9889a3dfcacb
+ˆ
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ïJ$2e7f48dd-f542-49f8-a05f-fe8f85881915
+[
+java:S1659"Declare "M" on a separate line.(ğ ¬ïJ$42f64493-0bd8-4e66-a029-3d130f06b0dd
+k	java:S1061"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿJ$07c80668-9005-4d2d-81b4-5ad9752cd817
+“
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÖŸ¡™øÿÿÿÿJ$c4f0d368-f8e6-4ead-a1ad-5139a3ff8975
+•
+java:S1210l"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹ÖJ$cb61e8ea-bfbe-45c5-ac1b-05c99c5bd77e

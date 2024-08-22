@@ -1,0 +1,19 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à„¥ıÿÿÿÿ8Ò²û•2J$6c8bc128-7cc0-4e52-9a69-41c89246747a
+
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“¯†8Ù²û•2J$27d9a019-e34c-4814-9767-f6fb65ed02db
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“¯†8Ù²û•2J$f4b33417-b2f7-421e-a6e8-fccbc8d1782c
+
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“¯†8Ù²û•2J$1095060c-e4a8-4b94-9807-87cadb62341e
+
+java:S3008"LRename this field "W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“¯†8Ù²û•2J$2263dc76-7cdb-422a-9555-acc46be5411a
+
+java:S1659">Declare "N" and all following declarations on a separate line.(ø“¯†8Û²û•2J$bcc2a7a1-8ddb-40a1-ad3f-dadd8e86cefa
+m	java:S1066"+Replace this use of System.out by a logger.(Àô²Å8ë²û•2J$1c7c6f86-37b4-4b6b-b842-3121117aa14c
+•
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÜŸÔ8ì²û•2J$42771239-da77-4a5a-a2a7-8d6e282d4938
+¡
+java:S1210c"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(È¶­üÿÿÿÿ8î²û•2J$bc15cea4-a6e1-4ad9-91c9-e22363e992ac
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8—ô†û•2J$91c38d71-18c2-4c35-8437-4b2cd4e106d5

@@ -1,6 +1,7 @@
 package 삼성전자dx특강.day09.Segment_Tree_연습1;
 
 import java.io.*;
+import java.util.ArrayDeque;
 import java.util.StringTokenizer;
 
 public class Solution {

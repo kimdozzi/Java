@@ -1,0 +1,11 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8­ÿ¥ş”2J$631d936e-6550-48b8-a1d9-ca868412b6fb
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øğ³ıÿÿÿÿ8®ÿ¥ş”2J$929ce3c4-d127-4b39-a033-9dd50bc1c5da
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òƒ¥Üÿÿÿÿÿ8®ÿ¥ş”2J$a30f7cea-c023-434b-a1dc-1f799c051b0b
+l	java:S106;"+Replace this use of System.out by a logger.(Á½-8·ÿ¥ş”2J$0949765e-f7f8-4d89-8846-6694d003eb1b
+X	java:S125:"<This block of commented-out lines of code should be removed.(¥Ï8Ü´ªş”2
+l	java:S106E"+Replace this use of System.out by a logger.(ü„ê!8·ÿ¥ş”2J$c29a9b30-e18e-4d08-a7c7-ef41f39c8085
+•
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸Ä–û8¹ÿ¥ş”2J$0a81949b-f1b9-42d2-a6b2-de4d39a0ea03
+s	java:S106¤"+Replace this use of System.out by a logger.(©Šùÿÿÿÿ8»ÿ¥ş”2J$c20baf53-0f81-44b3-a6ae-87d60a44a835
+s	java:S106¦"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8»ÿ¥ş”2J$c1aa30eb-6fe5-4ff0-8dcc-03f1dc9b0c22

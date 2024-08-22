@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÜ¯ øÿÿÿÿ
+g
+java:S3008	"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ›Âıÿÿÿÿ
+g
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ›Âıÿÿÿÿ
+g
+java:S3008	"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ›Âıÿÿÿÿ
+Y
+java:S1659	">Declare "N" and all following declarations on a separate line.(Æ›Âıÿÿÿÿ
+B
+java:S1659
+"'Declare "tempBoard" on a separate line.(³øèùÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(À¨Ï—ıÿÿÿÿ

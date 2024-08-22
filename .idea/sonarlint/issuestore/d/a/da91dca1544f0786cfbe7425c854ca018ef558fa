@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šîƒ‹üÿÿÿÿ8´Åİ…•2J$bd7126b8-18f6-4b24-a01b-94eba5653fce
+›	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë8¸Åİ…•2J$e0a6af4c-f2f9-45a6-bf2e-53f6d66cf694
+
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á§ò§8¹Åİ…•2J$54b3746d-e2d7-4720-97da-c830e2e4434f
+
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á§ò§8¹Åİ…•2J$f3ec1abc-b938-48e6-8a42-66549509ec14
+
+java:S1659">Declare "M" and all following declarations on a separate line.(Á§ò§8ºÅİ…•2J$494a7b5b-d2b9-4587-bd23-9ef8dac3bc8b
+m	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8ÃÅİ…•2J$d6eade70-f8e0-41c1-b805-a4e5f0905928
+š
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ê—˜¢üÿÿÿÿ8ÃÅİ…•2J$99c96153-1f65-4f27-97b0-da6a27f09a3d

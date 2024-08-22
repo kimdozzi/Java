@@ -1,15 +1,9 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ÃÈóþÿÿÿÿ8öÂ„Ý“2J$fd11b731-81f5-4f21-9930-e060ad2903ec
-ˆ	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ð£Îš8ùÂ„Ý“2J$0f26b22a-ca97-40b6-ab91-253d3a3cfc8a
-ˆ	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ð£Îš8ùÂ„Ý“2J$31ada0e4-af78-41d2-9fa4-d434d53de2c1
-m	java:S106"+Replace this use of System.out by a logger.(ƒË’ö8€Ã„Ý“2J$48f9e178-fcff-48b8-a9d1-289f4cc7036e
-ƒ	java:S125!"<This block of commented-out lines of code should be removed.(“Ž†„ûÿÿÿÿ8Ã„Ý“2J$dbba62ac-84d8-4bc9-89f1-b67a2b727de3
-m	java:S106o"+Replace this use of System.out by a logger.(¡ÐÜ³8êˆéÝ“2J$abbac744-2486-4aed-ac63-351914d019ba
-G
-java:S1481r"*Remove this unused "index" local variable.(®‘òð8í›ñÝ“2
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÐïçÝ“2J$6ab3549f-ab6e-450b-b93b-9670ddae3fb1
-z
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ÐïçÝ“2J$11d649f9-0fdc-48a2-9f6f-a9ce69dfc5fb
-s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÐïçÝ“2J$7b032731-0f17-48ec-919e-4bfe076c5b82
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ÃÈóþÿÿÿÿ8öÂ„Ý“2J$190cf987-2ce0-4548-a302-65527b76953d
+ˆ	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ð£Îš8ùÂ„Ý“2J$9622c974-e8b7-4976-9681-c76a4088d419
+ˆ	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ð£Îš8ùÂ„Ý“2J$275f04b7-a1a2-4e33-80b8-7179dfcee9a7
+m	java:S106"+Replace this use of System.out by a logger.(ƒË’ö8€Ã„Ý“2J$1dd3b8a4-48c1-470b-b600-cd2d5801c138
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(“Ž†„ûÿÿÿÿ8Ã„Ý“2J$7386f53b-6865-4eb6-b7b6-2200e5a5a1a7
+m	java:S106l"+Replace this use of System.out by a logger.(¡ÐÜ³8êˆéÝ“2J$3b06a628-c498-4652-92d9-15b19173dc77
+m
+java:S1481o"*Remove this unused "index" local variable.(®‘òð8í›ñÝ“2J$938ad6a7-6038-459d-9dba-28e38b8cacef

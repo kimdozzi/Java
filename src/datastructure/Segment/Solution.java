@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Solution {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -23,9 +23,6 @@ public class Main {
         }
 
         SegmentTree stree = new SegmentTree(n);
-
-        stree.initMin(arr, 1, 1, n);
-        stree.initMax(arr, 1, 1, n);
 
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < m; i++) {
@@ -48,12 +45,10 @@ public class Main {
         int treeSize;
 
         public SegmentTree(int arrSize) {
-            int h = (int) Math.ceil(Math.log(arrSize) / Math.log(2));
-            this.treeSize = (int) Math.pow(2, h + 1);
-
-            sumTree = new long[treeSize];
-            minTree = new long[treeSize];
-            maxTree = new long[treeSize];
+            treeSize = arrSize;
+            sumTree = new long[arrSize * 4];
+            minTree = new long[arrSize * 4];
+            maxTree = new long[arrSize * 4];
         }
 
         // 합 트리 초기화
@@ -66,27 +61,18 @@ public class Main {
                             + initSum(arr, node * 2 + 1, (start + end) / 2 + 1, end);
         }
 
-        // 최소값 트리 초기화
-        public long initMin(long[] arr, int node, int start, int end) {
+        // 최소값, 최대값 트리 초기화
+        public void initMinMax(long[] arr, int node, int start, int end) {
             if (start == end) {
-                return minTree[node] = arr[start];
+                minTree[node] = arr[start];
+                maxTree[node] = arr[start];
+            } else {
+                int mid = (start + end) / 2;
+                initMinMax(arr, node * 2, start, mid);
+                initMinMax(arr, node * 2 + 1, mid + 1, end);
+                minTree[node] = Math.min(minTree[node * 2], minTree[node * 2 + 1]);
+                maxTree[node] = Math.max(maxTree[node * 2], maxTree[node * 2 + 1]);
             }
-            return minTree[node] = Math.min(
-                    initMin(arr, node * 2, start, (start + end) / 2),
-                    initMin(arr, node * 2 + 1, (start + end) / 2 + 1, end)
-            );
-        }
-
-        // 최대값 트리 초기화
-        public long initMax(long[] arr, int node, int start, int end) {
-            if (start == end) {
-                return maxTree[node] = arr[start];
-            }
-            int mid = (start + end) / 2;
-            return maxTree[node] = Math.max(
-                    initMax(arr, node * 2, start, (start + end) / 2),
-                    initMax(arr, node * 2 + 1, (start + end) / 2 + 1, end)
-            );
         }
 
         // 기본값 업데이트
@@ -97,15 +83,15 @@ public class Main {
 
             sumTree[node] += diff;
 
-            if(start == end) {
+            if (start == end) {
                 minTree[node] = sumTree[node];
                 maxTree[node] = sumTree[node];
             } else {
                 update(node * 2, start, (start + end) / 2, idx, diff);
                 update(node * 2 + 1, (start + end) / 2 + 1, end, idx, diff);
 
-                minTree[node] = Math.min(minTree[node*2], minTree[node*2+1]);
-                maxTree[node] = Math.max(maxTree[node*2], maxTree[node*2+1]);
+                minTree[node] = Math.min(minTree[node * 2], minTree[node * 2 + 1]);
+                maxTree[node] = Math.max(maxTree[node * 2], maxTree[node * 2 + 1]);
             }
         }
 
@@ -124,34 +110,34 @@ public class Main {
         }
 
         // 구간 최소값 계산
-        public long findMinimum(int start, int end, int index, int left, int right) {
+        public long findMinimum(int start, int end, int node, int left, int right) {
             if (left > end || right < start) {
-                return 1000000001;  // 큰 값으로 초기화
+                return Long.MAX_VALUE;  // 큰 값으로 초기화
             }
             if (left <= start && end <= right) {
-                return minTree[index];
+                return minTree[node];
             }
 
             int mid = (start + end) / 2;
             return Math.min(
-                    findMinimum(start, mid, index * 2, left, right),
-                    findMinimum(mid + 1, end, index * 2 + 1, left, right)
+                    findMinimum(start, mid, node * 2, left, right),
+                    findMinimum(mid + 1, end, node * 2 + 1, left, right)
             );
         }
 
         // 구간 최대값 계산
-        public long findMaximum(int start, int end, int index, int left, int right) {
+        public long findMaximum(int start, int end, int node, int left, int right) {
             if (left > end || right < start) {
-                return 0;  // 작은 값으로 초기화
+                return Long.MIN_VALUE;  // 작은 값으로 초기화
             }
             if (left <= start && end <= right) {
-                return maxTree[index];
+                return maxTree[node];
             }
 
             int mid = (start + end) / 2;
             return Math.max(
-                    findMaximum(start, mid, index * 2, left, right),
-                    findMaximum(mid + 1, end, index * 2 + 1, left, right)
+                    findMaximum(start, mid, node * 2, left, right),
+                    findMaximum(mid + 1, end, node * 2 + 1, left, right)
             );
         }
     }
