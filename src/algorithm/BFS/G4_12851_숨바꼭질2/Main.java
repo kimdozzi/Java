@@ -41,7 +41,7 @@ class Main {
 
 			// now 방문 시간이 최소 시간보다 크면 제외
 			if (minTime < time[now])
-				return;
+				continue;
 
 			for (int i = 0; i < 3; i++) {
 				int next;
@@ -65,7 +65,7 @@ class Main {
 				// 첫 방문이거나 (time[next] == 0)
 				// 이미 방문한 곳이어도 같은 시간에 방문했다면 (time[next] == time[now] + 1)
 				// 경우의 수에 추가될 수 있기 때문에 Queue 에 한번 더 넣어줌
-				if (time[next] == 0 || time[next] == time[now] + 1) {
+				if (time[next] == 0 || time[next] >= time[now] + 1) {
 					q.add(next);
 					time[next] = time[now] + 1;
 				}

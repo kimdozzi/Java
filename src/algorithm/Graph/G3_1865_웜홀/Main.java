@@ -8,6 +8,8 @@ import java.util.List;
 import java.util.StringJoiner;
 import java.util.StringTokenizer;
 
+// https://ratsgo.github.io/data%20structure&algorithm/2017/11/27/bellmanford/
+// https://steady-coding.tistory.com/91
 public class Main {
 	static int T, N, M, W;
 	static int[] d;
