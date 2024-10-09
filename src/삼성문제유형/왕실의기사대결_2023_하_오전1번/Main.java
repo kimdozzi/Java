@@ -1,4 +1,5 @@
 package 삼성문제유형.왕실의기사대결_2023_하_오전1번;
+// https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel
 
 import java.io.BufferedReader;
 import java.io.IOException;

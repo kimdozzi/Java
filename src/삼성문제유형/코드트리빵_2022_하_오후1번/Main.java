@@ -82,6 +82,7 @@ public class Main {
 
 		while (true) {
 			time++;
+			System.out.println("== " + time + "번째 턴 시작 ==");
 
 			// 1. 격자에 있는 사람들 모두 본인이 가고 싶은 편의점 방향으로 1칸 이동
 			move();
@@ -97,6 +98,7 @@ public class Main {
 			if (allArrived()) {
 				break;
 			}
+			System.out.println();
 		}
 		System.out.println(time);
 	}
@@ -176,6 +178,8 @@ public class Main {
 			Pair person = people[idx];
 			int x = person.x;
 			int y = person.y;
+			System.out.println("최단경로 찾기 전의 사람의 위치");
+			System.out.println(x + " " + y);
 
 			// 격자에 있지 않는 사람들은 패스.
 			if (x == -1 && y == -1)
@@ -185,6 +189,8 @@ public class Main {
 			Pair market = markets[idx];
 			int ex = market.x;
 			int ey = market.y;
+			System.out.println("가고 싶은 편의점의 좌표");
+			System.out.println(ex + " " + ey);
 
 			if (x == ex && y == ey)
 				continue;
@@ -202,12 +208,19 @@ public class Main {
 				Pair current = q.poll();
 
 				if (current.x == ex && current.y == ey) {
+					System.out.println("==" + idx + "번 사람의 목표로하는 위치==");
+					System.out.println(current.x + " " + current.y);
+
 					Pair next = current;
 					while (parent[next.x][next.y] != null && (
 						parent[next.x][next.y].x != x || parent[next.x][next.y].y != y)) {
 						next = parent[next.x][next.y];
+						System.out.println("==역추적==");
+						System.out.println(next.x + " " + next.y);
 					}
 					people[idx] = next;
+					System.out.println("==마지막으로 저장되는 위치");
+					System.out.println(next.x + " " + next.y);
 					break;
 				}
 
